@@ -1,19 +1,16 @@
-Resume / Curriculum Vitae
-
 Benjamin Lee
 
-40 Ellsa Street
-Balwyn North
-Melbourne
-Victoria 3104
-Australia
-
-mob:+61 4 16 BEN LEE (236 533)
-
-<benjamin.lee@realthought.net>
+    40 Ellsa Street
+    Balwyn North
+    Melbourne
+    Victoria 3104
+    Australia
+    
+    mob:+61 4 16 BEN LEE (236 533)
+    
+    <benjamin.lee@realthought.net>
+    
   
-
-Copyright  2000 - 2014 Benjamin Lee
 
 To invent, you need a good imagination and a pile of junk. -- Thomas Edison
 
@@ -24,10 +21,9 @@ The reward of a thing well done is to have done it. -- Emerson
 
 When it's dark enough you can see the stars. -- Ralph Waldo Emerson
 
-Version 0.0.29
+Version 0.0.32
 
-Generated 2014-02-18T18:38:59+1100
-
+Generated 2017-04-27T07:47:59+10:00
 
 
 
@@ -66,12 +62,6 @@ Postgraduate
     Curso de Espa ol (Lengua y Cultura) realizado en la Universidad de
     Salamanca, Campus de  vila, Espa a.
 
-    Results / Resultados:
-
-    LENGUA ESPA OLA: SOBRESALIENTE (SPANISH LANGUAGE: DISTINCTION)
-    COMUNICACI N EN ESPA OL: SOBRESALIENTE (COMMUNICATION IN SPANISH: DISTINCTION)
-    CULTURA ESPA OLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
-
 
 
 Tertiary 1997 - 2000
@@ -82,44 +72,11 @@ Tertiary 1997 - 2000
    2000 - Authored thesis on 'Fuzzy Logic -based load balancing of Internet
     servers'.
 
-   1997 - Participated in the Monash Computer Science Advanced Students'
-    Project Scheme -- Web browser programmed in Java.
-
 
 
 Secondary 1991 - 1996
 
-   Completed Year 7 to VCE at Balwyn High Secondary College, Buchanan Ave,
-    Balwyn.
-
    Tertiary Entrance Rank Achieved (max. 99.95): 99.65.
-
-
-
-Significant Honours and Awards
-
-2000 - Vice-Chancellor's Undergraduate Research Scholarship (Monash University)
-
-2000 - School of Computer Science and Software Engineering Honours Scholarship
-(Monash University)
-
-1998 - Golden Key Honour Society Member (Monash University)
-
-1997 to 1999 - Sir John Monash Scholarship / Dean's Scholars Program (Monash
-University)
-
-1997 - Australian Student's Prize (Federal Government)
-
-1996 - W. H. Watson Citizenship Award (Balwyn High)
-
-1995 - Dux of Psychology (Balwyn High)
-
-1993 - Dr. David C. Pannan Scholarship (Balwyn High)
-
-1993 - AMEB Practise of Music ('Cello) Fourth Grade
-
-1990 - Victorian State Under 14 All-Round Gymnastics Champion Level 4 - 2nd
-Place (aged 11)
 
 
 
@@ -127,19 +84,14 @@ Skills and Knowledge
 
 Languages
 
-   English (native / C2)
+   Native / C2: English
 
-   Spanish / Espa ol (upper-intermediate / C1)
+   Upper-intermediate / C1: Spanish / Espa ol
 
-   Portuguese / Portugu s (beginner / A1-A2)
+   Beginner / A1-A2: Portuguese / Portugu s
 
-   French / Fran ais (less than beginner / -A1)
-
-   German / Deutsch (less than beginner / -A1)
-
-   Swahili / Kiswahili (less than beginner / -A1)
-
-   Auslan - Australian Sign Language (less than beginner / -A1)
+   Less than beginner / -A1: French / Fran ais, German / Deutsch, Swahili /
+    Kiswahili, Auslan - Australian Sign Language
 
 
 
@@ -147,58 +99,51 @@ Experience with
 
 Protocols
 
-    TCP, UDP, IP, Mobitex / MASC / MPAK / MDOT, DataTAC, SMPP, SMS / GSM 03.40,
-    Nokia Smart Messaging, IMAP4rev1, POP3, SMTP, HTTP, WAP, FTP, LDAP, IPsec /
-    IKE, SSH and others.
+    Mobitex / MASC / MPAK / MDOT, DataTAC, SMS / GSM 03.40, SS7, Nokia Smart
+    Messaging, IP, UDP, TCP, SMPP, IPsec / IKE, IMAP4rev1, POP3, SMTP, HTTP,
+    WAP, FTP, LDAP, SSH, SSL / TLS and others.
 
 Operating Systems
 
-    Mac OS, Linux (kernel versions 2.0.x / 2.2.x / 2.4.x / 2.6.x -- in
-    particular RedHat 5.x / 6.x / 7.x / 8.0 / 9 and flavours, e.g. Mandrake,
-    e-smith, Yellow Dog, LinuxPPC, etc.), Debian 3.x / 4.x (my preferred
-    distribution), Ubuntu, Knoppix, Palm OS 3.5.x / 4.x, MS Windows 3.x / 95 /
-    98 / NT / 2000 / XP, MS-DOS 6.x / 7.0, ULTRIX, Digital Unix / OSF, HP-UX,
-    SunOS, BSD/OS, OpenBSD 2.x / 3.x / 4.x, FreeBSD 4.x / 5.x / 6.x and more.
+    Mac OS since circa System 3.0, Linux (since kernel version 2.0.x) RedHat /
+    RHEL / CentOS, Mandrake, e-smith, Yellow Dog, LinuxPPC, Debian (my
+    preferred distribution), Ubuntu, Knoppix, Palm OS 3.5.x / 4.x, MS Windows
+    since 3.x, MS-DOS 6.x / 7.0, ULTRIX, Digital Unix / OSF, HP-UX, SunOS /
+    Solaris, BSD/OS, OpenBSD since 2.x, FreeBSD since 4.x.
 
 Languages
 
-    ANSI C, ANSI / ISO C++, Perl, Python, shell / bash, HTML / SGML / XML /
-    XSLT, WML, CSS, PHP, SQL, Tcl / Expect, Lisp, Java, MIPS Assembly, Pascal /
-    Delphi, Visual Basic, Javascript / ECMAScript, etc.
-
-Software Packages (Consumer)
-
-    Adobe Acrobat / Photoshop / PageMaker / GoLive / InDesign / ImageReady /
-    Illustrator, Macromedia Dreamweaver / Flash / Freehand, Roxio (Adaptec)
-    Toast / Jam, Bare Bones BBedit, Qualcomm Eudora, Microsoft Internet
-    Explorer / Outlook, Netscape Communicator, Mozilla, MYOB Accounting,
-    QuarkXPress, the Microsoft Office suite of virus spreading programs (over
-    20 years experience, beginning with a humble Microsoft Word on a
-    Macintosh Plus), and really too many others to list.
+    ANSI C, ANSI / ISO C++, Perl, Python, shell / bash, SQL, Ruby, Go, Java,
+    Groovy, HTML / SGML / XML / XSLT, JSON. YAML, WML, CSS, PHP, Tcl / Expect,
+    R, Lisp, MIPS Assembly, Pascal / Delphi, PowerShell, Visual Basic,
+    Javascript / ECMAScript, etc.
 
 Software (Development)
 
-    Subversion, Trac, Bugzilla, Mantis, CVS (WinCvs / CvsGui, etc.), make,
-    autoconf, automake, AutoGen, GCC, GDB, DDD, Valgrind, PilRC, PRC-Tools,
-    POSE, Microsoft Visual Studio, and others.
+    Git, Mercurial, Subversion, Jira, Trac, Bugzilla, Mantis, CVS (WinCvs /
+    CvsGui, etc.), make, autoconf, automake, AutoGen, GCC, GDB, DDD, Valgrind,
+    PilRC, PRC-Tools, POSE, Microsoft Visual Studio, Watir, Selenium
+    Mountebank, Node.js, and others.
 
 Software (Administration and Network)
 
-    tcpdump, traceroute, ping, nc (netcat), ip, route, rsync, ssh, daemontools,
-    AutoRPM, apt, dpkg and many other standard tools of the trade.
+    strace / truss, tcpdump, traceroute, ping, nc (netcat), ip, route, rsync,
+    ssh, daemontools, AutoRPM, apt, dpkg and many other standard tools of the
+    trade.
 
 Software (Enterprise)
 
-    VMware, MySQL, PostgreSQL, Informix, Apache, Tomcat / JServ, JBoss, Linux
+    VMware, MySQL, PostgreSQL, Informix, Oracle Database, MongoDB, Apache HTTP
+    server, Tomcat / JServ, JBoss, BEA / Oracle WebLogic, IBM WebSphere, Linux
     Virtual Server, qmail, Postfix, Sendmail, ProFTPD, vsftpd, OpenLDAP,
-    Courier, Cyrus, BEA WebLogic and others.
+    Courier, Cyrus, and others.
 
 Computing Concepts
 
     Object-oriented programming, regular expressions, distributed systems, TCP/
-    IP networking, Extreme Programming methodology, operating systems and
-    computer architecture, Ethernet, computer security, database management,
-    queueing theory and more.
+    IP networking, Extreme Programming / Agile methodologies, operating systems
+    and computer architecture, Ethernet, computer security, database
+    management, queueing theory and more.
 
 
 
@@ -206,17 +151,45 @@ Work History / Experience
 
    May-2012 to current
 
-    National Australia Bank 500 Bourke St. Melbourne VIC 3000 Australia
+    National Australia Bank 700 Bourke St. Melbourne VIC 3000 Australia
 
-    Performance Test Lead / Engineer
+    Senior Performance Engineer
 
-    Software performance testing: planning, execution, engineering and
-    analysis. Spring, Java EE, Apache Tomcat, Oracle Database, Microsoft SQL
-    Server, iTrinegy network emulator, HP ALM / Performance Center
-    (LoadRunner), CA Wily Application Performance Management (APM) Introscope,
-    Watir, Selenium, R, Ruby, Python, IBM - WebSphere Application Server,
-    WebSphere Portal Server, Business Process Manager, Tivoli Access Manager -
-    WebSEAL, IBM System z mainframe (CPACF), Linux on z/VM.
+    Delivered major re-engineering (distributed API microservices [sic]) and
+    re-platforming (virtualisation) projects servicing retail and business
+    customers.
+
+    Identified and resolved multiple SSL / TLS bottlenecks - Solaris 10 and
+    Java 8, HAProxy, Apache HTTP Client 4, IBM z Mainframe.
+
+    Identified, diagnosed and resolved system performance bottlenecks including
+    Oracle database SQL queries (AWR), JMS over IBM WebSphere MQ, JVM garbage
+    collection, JVM and native memory usage and leaks, code design (review /
+    profiling), TCP/IP network stack, resource contention (threads, Java class
+    loaders, operating system - CPU, memory, I/O).
+
+    Planned, developed, executed, analysed, and reported on performance tests
+    using Gatling, HP ALM / Performance Center (LoadRunner). Monitored,
+    visualised and analysed system performance and usage using InfluxDB,
+    Grafana, Elasticsearch, Kibana, Logstash, Splunk, CA Wily Application
+    Performance Management (APM) Introscope, hawt.io., Adobe Analytics /
+    Omniture.
+
+    Promoted risk management. Streamlined non-functional requirements
+    development. Forecast capacity (planning).
+
+    Systems reliability and performance engineering - analysis, design,
+    development, testing, support, failure analysis and resolution.
+
+    Development and operations (DevOps [sic]), integration and infrastructure -
+    AWS, Azure, Puppet, Ansible, Jenkins, Docker, Vagrant, Pivotal Spring (AOP
+    / DI), Netflix Hystrix, Terracotta Quartz Scheduler, Hibernate, Play,
+    Gradle, Apache Camel, Apache ActiveMQ, NGINX, HAProxy, Java J2EE, Apache
+    Tomcat, Axway API Gateway, Oracle Database 9i / 10g / 11g, Microsoft SQL
+    Server, iTrinegy network emulator, Thales SafeSign HSM, IBM - WebSphere
+    Application Server Network Deployment, WebSphere Portal Server, WebSphere
+    Liberty Profile, WebSphere MQ, Business Process Manager, Tivoli Access
+    Manager - WebSEAL, IBM System z mainframe (CPACF), Linux on z/VM.
 
    Sep-2011 to Jan-2012
 
@@ -242,7 +215,7 @@ Work History / Experience
     Database analysis and development: Microsoft Access, Microsoft SQL
     Server, SQLite, PostgreSQL, Perl, AutoHotkey, bash.
 
-    Climbed Mount Meru and Mount Kilimanjaro.
+    Climb Mount Meru and Mount Kilimanjaro.
 
    Nov-2010 to May-2011
 
@@ -298,11 +271,7 @@ Work History / Experience
     PHP / SQL optimisation and performance analysis. Web-based financial
     reporting application.
 
-    Proofreading.
-
     Windows library (DLL) development. Python / C / C++.
-
-    Source code version control. CVS and Subversion.
 
     CGI application development. Perl / DBI, PHP and Python.
 
@@ -345,8 +314,6 @@ Work History / Experience
     support and fault analysis (predominantly using tcpdump / wireshark).
 
     Automated win32 GUI and embedded Linux testing.
-
-    Subversion source control with Trac. RPM packaging.
 
     Systems administration: MS Windows 2003 Server, MS Exchange 2003, etc.,
     Linux, OpenBSD, Mambo / Joomla CMS, smokeping, OpenVPN / OpenVPN GUI,
@@ -392,8 +359,6 @@ Work History / Experience
     WiFi / 802.11b administration and video conferencing application
     prototyping.
 
-    Source code version control. CVS.
-
     Compression (ZLIB - RFC 1950) and encryption (3DES) application
     integration.
 
@@ -419,157 +384,9 @@ Work History / Experience
     sanitizer, NAI VirusScan, firewalls - iptables, ipchains, pf / pfctl - NAT
     / DNAT / SNAT, a little password recovery on Windows NT / 2000, Cisco IOS).
 
-   2001 to 2002 (self-employed / independent contracting)
+   1999 to 2002 (independent contracting)
 
-    Atlas IT R&D Pte. Ltd. 46 Lor 17. Geylang #02-04 Enterprise Industrial
-    Building Singapore 388568 Singapore
+    Various clients
 
     Systems Administrator / Developer
-
-    Systems administration (Cobalt RaQ4i, Donovan), Apache, MySQL, PostgreSQL,
-    Tomcat (Java Servlets), BIND (DNS), Sendmail, qmail, NFSv2, ext3, and SSH.
-
-    Development (PHP, Perl, C, Java / JSP / JDBC, XML). Developing Web-based
-    accounting software (SaaS). Technical support, and project management.
-    Constructed fax-to-PDF gateway. Security audits.
-
-   mid-2001 to 2002 (self-employed / independent contracting)
-
-    Fr&nk Design Pty. Ltd. 213 Victoria St. West Melbourne VIC 3003 Australia
-
-    Web Developer / Trainer / Reader / Developer
-
-    Web development (HTML, PHP / Perl) and training (Macintosh). Editing and
-    proofreading.
-
-   2001 to 2002 (self-employed / independent contracting)
-
-    Jenkins Cool Stores 1166 High Street Rd. Wantirna South VIC 3152 Australia
-
-    PC support (Windows 98/2000) and consulting. Systems administration (qmail,
-    BIND / DNS, DHCP, Samba, etc.). Intranet CGI application development
-    (logistics, warehouse management, groupware). Perl / PHP / PostgreSQL,
-    Linux application servers.
-
-   Sep-1999 to Nov-2000
-
-    PowerNET Computer Consultants Pty. Ltd. 50 Madden Gr. Burnley VIC 3121 
-    Australia
-
-    Systems Administrator / Developer / Web Designer
-
-    Systems administration, including shell and Perl scripting. Security
-    auditing. Web development and maintenance, and Windows / Macintosh support.
-
-   Nov-1998 (two week contract)
-
-    Compaq Computer Australia Pty. Ltd. 564 St Kilda Rd. Melbourne VIC 3004 
-    Australia
-
-    Year 2000 Compliance Testing: Greenwich Mean Time Check 2000 software at
-    Victoria Barracks, St Kilda Rd.
-
-   Dec-1996 - 2000 (casual)
-
-    Eng Medical Centre Pty. Ltd. 97 Princess St. Kew VIC 3101 Australia
-
-    Staffed Dispensary, selling homoeopathic / naturopathic nutritional
-    supplements. Basic bookkeeping and inventory management. Maintained PCs.
-
-   1998 to present
-
-    Private Computer Tutor / Trainer / Computer Technician
-
-    Teaching computer literacy and technologies at beginner / intermediate
-    levels, with an emphasis on Internet technologies. Troubleshooting various
-    software and hardware problems.
-
-   1997 to 1998
-
-    Harmozien Strings - String Quartet
-
-    'Cellist
-
-    Performed for weddings and functions on a casual basis.
-
-   Apr-1997 to 2001
-
-    Private VCE Physics / English / Maths Tutor
-
-    Tutored students at secondary school level.
-
-   Mar-1995 (one week work experience)
-
-    The Type Factory Pty. Ltd. 18 Drummond St. Carlton VIC 3053 Australia
-
-    Created magazine artwork. Performed traditional paste-up, digital
-    photo-manipulation (Adobe Photoshop), scanning (Agfa), bromide and film
-    processing, and... photocopying.
-
-   Jan-1995 (one week work experience)
-
-    VicPrint Pty. Ltd. 3 George St. Blackburn VIC 3130 Australia
-
-    Gained an enormous insight into the graphic reproduction / typesetting /
-    printing / pre-press industry. Performed OCR scanning, graphic design, film
-    processing, plate processing and plate making, blue printing and
-    chemi-proofing. Learnt how to pronounce `moir'.
-
-
-
-Additional Information and Interests
-
-   Jul-2008 to Oct-2010: Sabbatical. Travelled Central and South America, and
-    Europe. Volunteered as a Spanish-English interpreter on a coffee
-    plantation, an English tutor in a hostel and a private South American tour
-    guide from Buenos Aires to Medell n... inter alia.
-
-   Respected as the authoritative computer guru amongst family and friends. ;
-    -) Whether this is a good thing or not, is a whole other story...
-
-   1997: Established a heterogeneous TCP/IP LAN between Linux, Windows and
-    MacOS -based computers, incorporating various network services, including:
-    Slirp, DHCP, firewall (ipchains / iptables), transparent proxy, NAT / IP
-    Masquerading, Netatalk (AppleTalk/IP), Web (Apache / AOLserver), mail
-    (qmail / Sendmail / Postfix, Cyrus IMAPD, UW imapd), Samba (SMB/NetBIOS/
-    IP), FTP (ProFTPD, vsftpd) and SSH (openssh).
-
-   2000: An experimental interest in Human Computer Interaction (HCI) using
-    the Internet and Macromedia Flash.
-
-    Self-trained in the NATO phonetic alphabet (thanks Peter M). Morse code is
-    next.
-
-    Dvorak: in training (todav a, hace muchos a os)
-
-   1995 to 1996: Designed high school yearbook front cover using Adobe
-    Photoshop. 1994 to 1996: High school yearbook photographer.
-
-   Travelled to Antarctica, Argentina, Austria, Belgium, Bolivia, Brazil,
-    Canada, Chile, China, Colombia, Croatia, Cuba, Cyprus, Czech Republic,
-    Ecuador, England, Estonia, Finland, France, Germany, Hungary, Indonesia,
-    Ireland (Republic of), Italy, Malaysia, Mexico, Morocco, Netherlands, New
-    Zealand, Peru, Poland, Singapore, Spain, Switzerland, Tanzania, Thailand,
-    United States, Uruguay, Vatican, and Australia. ;-)
-
-   Interested in photography, drawing, languages and multilingualism,
-    etymology, psychology, making things, music and mixing music, gymnastics,
-    sleep, dancing and break-dancing, Capoeira, salsa, coin and matchbook
-    collecting, antiques, philosophy (in moderation, of course), and last, but
-    by no means least, happiness.
-
-
-
-References
-
-References available on request.
-
-
-
-The End
-
-All trademarks are the property of their respective owners. In particular,
-http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx
-
-Imus.
 
