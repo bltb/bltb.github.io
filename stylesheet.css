@@ -1,46 +1,46 @@
 <!-- HTTP_USER_AGENT ::  -->
 
 pre {
-	font-family: courier new, courier; 
+	font-family: courier new, courier;
 }
 
-body { 
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
-	background-color: #ffffff; 
+body {
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	background-color: #ffffff;
 }
 
-p { 
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%; 
+p {
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%;
 }
 	
 h2 {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.93333333333333pc; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.93333333333333pc;
 	font-weight: bold;
 }
 
 h3 {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.81666666666667pc; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.81666666666667pc;
 	font-weight: bold;
 }
 
 th {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
-	font-weight: bold; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-weight: bold;
 }
 
 a, li, li a, td {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
 }
 
 .list_inner_table {}
 .list_outer_table {}
 
-.list_heading { 
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
-	font-weight: bold; 
-	color: #ffffff; background-color: #000066; 
+.list_heading {
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-weight: bold;
+	color: #ffffff; background-color: #000066;
 	text-align: center;
-	padding-top: 1pt; 
+	padding-top: 1pt;
 }
 
 input, textarea {
@@ -48,63 +48,63 @@ input, textarea {
 	font-size: 0.7pc;
 }
 
-.list_heading_text { 
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
-	font-weight: bold; 
+.list_heading_text {
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-weight: bold;
 	color: #ffffff;
 }
 
 
-.list_item { 
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
-	padding-top: 2pt; 
-	padding-left: 2pt; padding-right: 2pt; 
+.list_item {
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	padding-top: 2pt;
+	padding-left: 2pt; padding-right: 2pt;
 }
 
 .list_row_1 { background-color: #eeeeee; }
 .list_row_2 { background-color: #ddddee; }
 
-.list_total { 
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
-	font-weight: bold; 
+.list_total {
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-weight: bold;
 	color: #ffffff; background-color: #000000;
 }
-  
+
 .heading_2 {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.93333333333333pc; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.93333333333333pc;
 	font-weight: bold;
 }
-  
+
 .checkbox {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.58333333333333pc;
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.58333333333333pc;
 }
 
 .button {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
 	padding-left: 0pt;
 	background: #eeeeee;
 }
 
 .menu_item_header {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%;
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%;
 	font-weight: bold;
 }
 
 .menu_item_2 {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%;
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%;
 }
 
 .menu_heading {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
 	font-weight: bold;
 }
 
 .main_menu_1 {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
 }
-  
+
 .main_menu_username {
-	font-family: verdana, arial, helvetica, geneva, san-serif;	font-size: 0.7pc; 
+	font-family: arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
 	font-weight: bold; font-style: italic;
 }
 
