@@ -21,9 +21,9 @@ The reward of a thing well done is to have done it. -- Emerson
 
 When it's dark enough you can see the stars. -- Ralph Waldo Emerson
 
-Version 0.0.32
+Version 0.0.33
 
-Generated 2017-04-27T07:47:59+10:00
+Generated 2019-06-18T04:18:21+10:00
 
 
 
@@ -149,7 +149,34 @@ Computing Concepts
 
 Work History / Experience
 
-   May-2012 to current
+   Feb-2018 to current
+
+    Deloitte 550 Bourke St. Melbourne VIC 3000 Australia
+
+    Director (Platform Engineering)
+
+    Government Assisted "hybrid" Agile project planning using Atlassian Jira
+    and Confluence.
+
+    Superannuation Automated testing (Java, Selenium, React, Salesforce).
+
+    On-line wagering Assessed (Agile) software delivery process. Reviewed AWS
+    (PHP, Docker, Java, .Net) infrastructure solution design and architecture.
+
+    Credit reporting Reviewed and tested (.Net, SQL Server) infrastructure
+    solution design and architecture. Identified performance bottlenecks and
+    tuning opportunities using Riverbed SteelCentral AppInternals, dotPeek
+    decompiler, dotTrace profiler and SQL Server Management Studio.
+
+    Telecommunications Delivered (DevSecPerfEtcOps) automation and integration
+    proofs of concept using Splunk, Atlassian Bamboo / Jira / Bitbucket,
+    Jenkins, Docker, New Relic, Dynatrace, Tenon.io, ZAP Proxy, Burp Suite,
+    Nessus, HP MicroFocus LoadRunner / Performance Center, Selenium, Watir,
+    JMeter, Gatling, AWS, Pivotal Cloud Foundry, CA DevTest / LISA, HAProxy.
+    Administered Splunk and tuned Splunk queries. Assisted performance testing
+    (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
+
+   May-2012 to Jan-2018
 
     National Australia Bank 700 Bourke St. Melbourne VIC 3000 Australia
 

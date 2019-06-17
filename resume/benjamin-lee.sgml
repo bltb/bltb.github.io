@@ -10,7 +10,7 @@
 
 <!ENTITY % draft "IGNORE">
 
-<!entity Version "Version 0.0.32">
+<!entity Version "Version 0.0.33">
 ]>
 
 <!-- 
@@ -21,7 +21,7 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
   <!-- Header -->
   <articleinfo>
     <!--
-	<title>Resume / Curriculum Vitae</title>
+    <title>Resume / Curriculum Vitae</title>
     -->
     <authorgroup>
       <author>
@@ -49,12 +49,12 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
     </authorgroup>
     
     <!--
-	
-	<copyright>
-	<year>2000 - 2017</year>
-	<holder>Benjamin Lee</holder>
-	</copyright>
-
+    
+    <copyright>
+    <year>2000 - 2017</year>
+    <holder>Benjamin Lee</holder>
+  </copyright>
+    
     -->    
 
     <abstract>
@@ -81,10 +81,6 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
 
     
   </articleinfo>
-  
-  <!--
-      <beginpage>
-  -->
   
   <sect1 id="objectives">
     <title>Objectives</title>
@@ -144,16 +140,16 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
 
 	    <!--
 
-<para>Results / Resultados:</para>
+	    <para>Results / Resultados:</para>
 
-<para>
-<screen>
-LENGUA ESPAÑOLA: SOBRESALIENTE (SPANISH LANGUAGE: DISTINCTION)
-COMUNICACIÓN EN ESPAÑOL: SOBRESALIENTE (COMMUNICATION IN SPANISH: DISTINCTION)
-CULTURA ESPAÑOLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
-</screen>
+	    <para>
+	    <screen>
+	    LENGUA ESPAÑOLA: SOBRESALIENTE (SPANISH LANGUAGE: DISTINCTION)
+	    COMUNICACIÓN EN ESPAÑOL: SOBRESALIENTE (COMMUNICATION IN SPANISH: DISTINCTION)
+	    CULTURA ESPAÑOLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
+	  </screen>
 
-</para>
+	  </para>
 
 	    -->
 
@@ -169,10 +165,10 @@ CULTURA ESPAÑOLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
 	  <listitem>
 	    
 	    <!-- Monash University / Bachelors Degree / Computer
-		 Science
-		 
-		 Jan 1997 Dec 2000
-		 
+	    Science
+	    
+	    Jan 1997 Dec 2000
+	    
 	    -->
 
 	    <para>May-2001 - Admitted to the Honours Degree of
@@ -180,41 +176,41 @@ CULTURA ESPAÑOLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
 	    Campus, Melbourne, Australia.</para>
 
 	    <!--
-		<para>University transcript:</para>
-		<para>
-		<screen>
-		2000 04 04 CSC4000 COMPUTER SCIENCE HONOURS H2A
-		1999 02 01 CSE2324 COMPUTER ARCHITECTURE HD
-		1999 03 01 CSE3305 FORMAL METHODS II D
-		1999 03 01 CSE3308 SOFTWARE ENGINEERING : ANALYSIS AND DESIGN C
-		1999 03 01 CSE3313 COMPUTER GRAPHICS D
-		1999 03 01 CSE3314 IMAGE PROCESSING HD
-		1999 03 02 CSE3301 PROJECT HD
-		1999 03 02 CSE3322 PROGRAMMING LANGUAGES AND IMPLEMENTATION HD
-		1999 03 02 CSE3323 THE COMPUTER INDUSTRY : HISTORICAL SOCIAL AND PROFESS HD
-		1998 02 01 COT2180 RELATIONAL DATABASE HD
-		1998 02 01 CSC2030 FORMAL METHODS I HD
-		1998 02 01 CSC2040 ALGORITHMS AND DATA STRUCTURES HD
-		1998 02 01 CSC2910 UNIX TOOLS HD
-		1998 02 01 CSC2940 LISP PROGRAMMING HD
-		1998 02 02 COT2004 DATA COMMUNICATIONS AND NETWORKS HD
-		1998 02 02 CSC2020 OPERATING SYSTEMS HD
-		1998 02 02 CSC2050 OBJECT ORIENTED SOFTWARE ENGINEERING D
-		1998 02 02 CSC2091 ARTIFICIAL INTELLIGENCE HD
-		1998 02 02 CSC2252 MULTIMEDIA PROGRAMMING AND THE WORLD WIDE WEB HD
-		1998 01 02 PHL1020 INTRODUCTION TO PHILOSOPHY B HD
-		1997 01 01 COT1700 THE COMPUTING ENVIRONMENT HD
-		1997 01 01 CSC1011 COMPUTER PROGRAMMING HD
-		1997 01 01 MAT1130 GRAPHS, LOGIC & NUMBERS HD
-		1997 01 01 SCY1010 INTRODUCTION TO SOCIOLOGY 1 HD
-		1997 01 02 COT1800 PUBLIC NETWORKS HD
-		1997 01 02 COT2200 SYSTEMS SECURITY AND PRIVACY HD
-		1997 01 02 CSC1030 COMPUTER SCIENCE HD
-		1997 01 02 MAT1060 STATISTICAL METHODS HD
-		1997 01 02 MAT1240 MATHEMATICS OF CHAOS & FRACTALS D
-		</screen>
-		</para>
-            -->
+	    <para>University transcript:</para>
+	    <para>
+	    <screen>
+	    2000 04 04 CSC4000 COMPUTER SCIENCE HONOURS H2A
+	    1999 02 01 CSE2324 COMPUTER ARCHITECTURE HD
+	    1999 03 01 CSE3305 FORMAL METHODS II D
+	    1999 03 01 CSE3308 SOFTWARE ENGINEERING : ANALYSIS AND DESIGN C
+	    1999 03 01 CSE3313 COMPUTER GRAPHICS D
+	    1999 03 01 CSE3314 IMAGE PROCESSING HD
+	    1999 03 02 CSE3301 PROJECT HD
+	    1999 03 02 CSE3322 PROGRAMMING LANGUAGES AND IMPLEMENTATION HD
+	    1999 03 02 CSE3323 THE COMPUTER INDUSTRY : HISTORICAL SOCIAL AND PROFESS HD
+	    1998 02 01 COT2180 RELATIONAL DATABASE HD
+	    1998 02 01 CSC2030 FORMAL METHODS I HD
+	    1998 02 01 CSC2040 ALGORITHMS AND DATA STRUCTURES HD
+	    1998 02 01 CSC2910 UNIX TOOLS HD
+	    1998 02 01 CSC2940 LISP PROGRAMMING HD
+	    1998 02 02 COT2004 DATA COMMUNICATIONS AND NETWORKS HD
+	    1998 02 02 CSC2020 OPERATING SYSTEMS HD
+	    1998 02 02 CSC2050 OBJECT ORIENTED SOFTWARE ENGINEERING D
+	    1998 02 02 CSC2091 ARTIFICIAL INTELLIGENCE HD
+	    1998 02 02 CSC2252 MULTIMEDIA PROGRAMMING AND THE WORLD WIDE WEB HD
+	    1998 01 02 PHL1020 INTRODUCTION TO PHILOSOPHY B HD
+	    1997 01 01 COT1700 THE COMPUTING ENVIRONMENT HD
+	    1997 01 01 CSC1011 COMPUTER PROGRAMMING HD
+	    1997 01 01 MAT1130 GRAPHS, LOGIC & NUMBERS HD
+	    1997 01 01 SCY1010 INTRODUCTION TO SOCIOLOGY 1 HD
+	    1997 01 02 COT1800 PUBLIC NETWORKS HD
+	    1997 01 02 COT2200 SYSTEMS SECURITY AND PRIVACY HD
+	    1997 01 02 CSC1030 COMPUTER SCIENCE HD
+	    1997 01 02 MAT1060 STATISTICAL METHODS HD
+	    1997 01 02 MAT1240 MATHEMATICS OF CHAOS & FRACTALS D
+	  </screen>
+	  </para>
+	    -->
 	  </listitem>
 
 	  <listitem>
@@ -225,10 +221,10 @@ CULTURA ESPAÑOLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
 	  <![%draft;[
 
 	  <listitem>
-	    <para>1997 - Participated in the Monash Computer Science
-	    Advanced Students' Project Scheme -- Web browser
-	    programmed in Java.</para>
-	  </listitem>
+	  <para>1997 - Participated in the Monash Computer Science
+	  Advanced Students' Project Scheme -- Web browser
+	  programmed in Java.</para>
+	</listitem>
 	  ]]>
 	  
 	</itemizedlist>
@@ -244,36 +240,36 @@ CULTURA ESPAÑOLA: SOBRESALIENTE (SPANISH CULTURE: DISTINCTION)
 	<itemizedlist>
 
 	  <!--
-	      <listitem>
-	      <para>Completed Year 7 to VCE at Balwyn High Secondary
-	      College, Buchanan Ave, Balwyn.</para>
-	      </listitem>
+	  <listitem>
+	  <para>Completed Year 7 to VCE at Balwyn High Secondary
+	  College, Buchanan Ave, Balwyn.</para>
+	</listitem>
 	  -->
 	  <listitem>
 	    <para>Tertiary Entrance Rank Achieved (max. 99.95): 99.65.</para>
 	  </listitem>
 
           <!--
-	      <listitem>
-	      <para>VCE Study Scores 1995 and 1996:</para>
+	  <listitem>
+	  <para>VCE Study Scores 1995 and 1996:</para>
 
-<para>
-<screen>
+	  <para>
+	  <screen>
 
-Unadjusted
-Subject                                   Study Score
-(max. 50)
-=======================================================
-Psychology                                   50
-English                                      50
-I.T. - Information Systems                   47
-Physics                                      46
-Chemistry                                    42
-Maths - Mathematical Methods                 39
+	  Unadjusted
+	  Subject                                   Study Score
+	  (max. 50)
+	  =======================================================
+	  Psychology                                   50
+	  English                                      50
+	  I.T. - Information Systems                   47
+	  Physics                                      46
+	  Chemistry                                    42
+	  Maths - Mathematical Methods                 39
 
-</screen>
-</para>
-</listitem>
+	</screen>
+	</para>
+	</listitem>
           -->
 	  
 	</itemizedlist>
@@ -282,69 +278,69 @@ Maths - Mathematical Methods                 39
     
     
     <!-- They say that I should keep it concise. 
-	 But I am quite proud of my younger years!
+    But I am quite proud of my younger years!
     -->
     <!-- 
 
-<sect2 id="awards">
-<title>Significant Honours and Awards</title> 
+    <sect2 id="awards">
+    <title>Significant Honours and Awards</title> 
 
-<para>2000 - Vice-Chancellor's Undergraduate Research
-Scholarship (Monash University)</para>
+    <para>2000 - Vice-Chancellor's Undergraduate Research
+    Scholarship (Monash University)</para>
 
-<para>2000 - School of Computer Science and Software Engineering
-Honours Scholarship (Monash University)</para>
+    <para>2000 - School of Computer Science and Software Engineering
+    Honours Scholarship (Monash University)</para>
 
-<para>1998 - Golden Key Honour Society Member (Monash University)</para> 
+    <para>1998 - Golden Key Honour Society Member (Monash University)</para> 
 
-<para>1997 to 1999 - Sir John Monash Scholarship / Dean's
-Scholars Program (Monash University)</para>
+    <para>1997 to 1999 - Sir John Monash Scholarship / Dean's
+    Scholars Program (Monash University)</para>
 
-<para>1997 - Australian Student's Prize (Federal Government)</para>
+    <para>1997 - Australian Student's Prize (Federal Government)</para>
 
-<para>1996 - W. H. Watson Citizenship Award (Balwyn High)</para>
+    <para>1996 - W. H. Watson Citizenship Award (Balwyn High)</para>
 
-<para>1995 - Dux of Psychology (Balwyn High)</para>
+    <para>1995 - Dux of Psychology (Balwyn High)</para>
 
-<para>1993 - Dr. David C. Pannan Scholarship (Balwyn High)</para>
+    <para>1993 - Dr. David C. Pannan Scholarship (Balwyn High)</para>
 
-<para>1993 - AMEB Practise of Music ('Cello) Fourth Grade</para>
+    <para>1993 - AMEB Practise of Music ('Cello) Fourth Grade</para>
 
-<para>1990 - Victorian State Under 14 All-Round Gymnastics
-Champion Level 4 - 2nd Place (aged 11)</para>
-</sect2>
-</sect1>
+    <para>1990 - Victorian State Under 14 All-Round Gymnastics
+    Champion Level 4 - 2nd Place (aged 11)</para>
+  </sect2>
+  </sect1>
 
     -->
 
-    <sect1 id="skills">
+  <sect1 id="skills">
 
-      <title>Skills and Knowledge</title>
-      
-      <sect2>
-	<title>Languages</title>
-	<itemizedlist>
+    <title>Skills and Knowledge</title>
+    
+    <sect2>
+      <title>Languages</title>
+      <itemizedlist>
 
-	  <listitem><para>Native / C2: English</para></listitem>
+	<listitem><para>Native / C2: English</para></listitem>
+	
+	<listitem><para>Upper-intermediate / C1: Spanish / Español</para></listitem>
+	
+	<listitem><para>Beginner / A1-A2: Portuguese / Português</para></listitem>
+	
+	<listitem><para>Less than beginner / -A1: French / Français, German / Deutsch, Swahili / Kiswahili, Auslan - Australian Sign Language</para></listitem>
+	
+      </itemizedlist>
+    </sect2>
+    
+    <sect2 id="knowledge">
+      <title>Experience with</title>
+      <variablelist>
+	
+	<varlistentry>
 	  
-	  <listitem><para>Upper-intermediate / C1: Spanish / Español</para></listitem>
-	  
-	  <listitem><para>Beginner / A1-A2: Portuguese / Português</para></listitem>
-	  
-	  <listitem><para>Less than beginner / -A1: French / Français, German / Deutsch, Swahili / Kiswahili, Auslan - Australian Sign Language</para></listitem>
-	  
-	</itemizedlist>
-      </sect2>
-      
-      <sect2 id="knowledge">
-	<title>Experience with</title>
-	<variablelist>
-	  
-	  <varlistentry>
-	    
-	    <term><productname>Protocols</productname></term>
-	    <listitem>
-	      <para>
+	  <term><productname>Protocols</productname></term>
+	  <listitem>
+	    <para>
 		Mobitex / MASC / MPAK / MDOT, DataTAC,
 		SMS / GSM 03.40, SS7, Nokia Smart Messaging, 
 		IP, UDP, TCP,
@@ -353,13 +349,13 @@ Champion Level 4 - 2nd Place (aged 11)</para>
 		IMAP4rev1, POP3, SMTP, HTTP, WAP, FTP, LDAP, 
 		SSH, SSL / TLS and
 	      others.</para>
-	    </listitem>
-	  </varlistentry>
-	  
-	  <varlistentry>
-	    <term>Operating Systems</term>
-	    <listitem>
-	      <para>Mac OS since circa System 3.0, 
+	  </listitem>
+	</varlistentry>
+	
+	<varlistentry>
+	  <term>Operating Systems</term>
+	  <listitem>
+	    <para>Mac OS since circa System 3.0, 
 	      Linux (since kernel version 2.0.x)
 	      RedHat / RHEL / CentOS,
 	      Mandrake, e-smith, Yellow Dog,
@@ -370,13 +366,13 @@ Champion Level 4 - 2nd Place (aged 11)</para>
 	      ULTRIX, Digital Unix / OSF, HP-UX, SunOS / Solaris, BSD/OS,
 	      OpenBSD since 2.x, FreeBSD since 4.x.
 	      </para>
-	    </listitem>
-	  </varlistentry>
-	  
-	  <varlistentry>
-	    <term>Languages</term>
-	    <listitem>
-	      <para>ANSI C, ANSI / ISO C++, Perl, Python, shell / bash,
+	  </listitem>
+	</varlistentry>
+	
+	<varlistentry>
+	  <term>Languages</term>
+	  <listitem>
+	    <para>ANSI C, ANSI / ISO C++, Perl, Python, shell / bash,
 	      SQL,
 	      Ruby, Go, Java,
 	      Groovy,
@@ -387,33 +383,33 @@ Champion Level 4 - 2nd Place (aged 11)</para>
 	      Lisp, MIPS Assembly, Pascal / Delphi,
 	      PowerShell,
 	      Visual Basic, Javascript / ECMAScript, etc.</para>
-	    </listitem>
-	  </varlistentry>
+	  </listitem>
+	</varlistentry>
 
-	  <!-- 
+	<!-- 
 
-<varlistentry>
-<term>Software Packages (Consumer)</term>
-<listitem>
-<para>Adobe Acrobat / Photoshop / PageMaker / GoLive /
-InDesign / ImageReady / Illustrator, Macromedia
-Dreamweaver / Flash / Freehand, Roxio (Adaptec) Toast /
-Jam, Bare Bones BBedit, Qualcomm Eudora, Microsoft&reg;
-Internet Explorer / Outlook,
-Netscape Communicator, Mozilla, MYOB Accounting,
-QuarkXPress, the Microsoft&reg; Office suite of virus
-spreading programs (over 20 years experience, beginning
-with a humble Microsoft&reg; Word on a Macintosh&reg;
-Plus), and really too many others to list.</para>
-</listitem>
-</varlistentry>
+	<varlistentry>
+	<term>Software Packages (Consumer)</term>
+	<listitem>
+	<para>Adobe Acrobat / Photoshop / PageMaker / GoLive /
+	InDesign / ImageReady / Illustrator, Macromedia
+	Dreamweaver / Flash / Freehand, Roxio (Adaptec) Toast /
+	Jam, Bare Bones BBedit, Qualcomm Eudora, Microsoft&reg;
+	Internet Explorer / Outlook,
+	Netscape Communicator, Mozilla, MYOB Accounting,
+	QuarkXPress, the Microsoft&reg; Office suite of virus
+	spreading programs (over 20 years experience, beginning
+	with a humble Microsoft&reg; Word on a Macintosh&reg;
+	Plus), and really too many others to list.</para>
+      </listitem>
+      </varlistentry>
 
-	  -->
+	-->
 
-	  <varlistentry>
-	    <term>Software (Development)</term>
-	    <listitem>
-	      <para>Git, Mercurial, Subversion, Jira, Trac, Bugzilla, Mantis, CVS (WinCvs /
+	<varlistentry>
+	  <term>Software (Development)</term>
+	  <listitem>
+	    <para>Git, Mercurial, Subversion, Jira, Trac, Bugzilla, Mantis, CVS (WinCvs /
 	      CvsGui, etc.), make, autoconf, automake, AutoGen, GCC,
 	      GDB, DDD, Valgrind, PilRC, PRC-Tools, POSE, Microsoft
 	      Visual Studio,
@@ -424,32 +420,32 @@ Plus), and really too many others to list.</para>
 
 	      and others.</para>
 
-	    </listitem>
-	  </varlistentry>
+	  </listitem>
+	</varlistentry>
 
-	  <varlistentry>
-	    <term>Software (Administration and Network)</term>
+	<varlistentry>
+	  <term>Software (Administration and Network)</term>
 
-	    <listitem>
+	  <listitem>
 
-	      <!-- TODO. maybe put all the technologies and stuff here 
-		   <para>
-		   </para>
-		   
-	      -->
+	    <!-- TODO. maybe put all the technologies and stuff here 
+	    <para>
+	  </para>
+	    
+	    -->
 
-	      <para>strace / truss, tcpdump,
+	    <para>strace / truss, tcpdump,
 	      traceroute, ping, nc (netcat), ip, route,
 	      rsync, ssh, daemontools, AutoRPM, apt, dpkg
 	      and many other standard tools of the
 	      trade.</para>
-	    </listitem>
-	  </varlistentry>
+	  </listitem>
+	</varlistentry>
 
-	  <varlistentry>
-	    <term>Software (Enterprise)</term>
-	    <listitem>
-	      <para>VMware, 
+	<varlistentry>
+	  <term>Software (Enterprise)</term>
+	  <listitem>
+	    <para>VMware, 
 	      MySQL, PostgreSQL, Informix, Oracle Database, MongoDB,
 	      Apache HTTP server, 
 	      Tomcat / JServ, 
@@ -459,13 +455,13 @@ Plus), and really too many others to list.</para>
 	      Linux Virtual Server, qmail, Postfix,
 	      Sendmail, ProFTPD, vsftpd, OpenLDAP, Courier, Cyrus,
 	      and others.</para>
-	    </listitem>
-	  </varlistentry>
+	  </listitem>
+	</varlistentry>
 
-	  <varlistentry>
-	    <term>Computing Concepts</term>
-	    <listitem>
-	      <para>Object-oriented programming, regular expressions,
+	<varlistentry>
+	  <term>Computing Concepts</term>
+	  <listitem>
+	    <para>Object-oriented programming, regular expressions,
 	      distributed systems, TCP/IP networking, Extreme
 	      Programming / Agile methodologies,
 	      operating systems and computer
@@ -481,48 +477,94 @@ Infrastructure as Code,
 		   http://oxforddictionaries.com/definition/queue
               -->
 	      management, queueing theory and more.</para>
-	    </listitem>
-	  </varlistentry>
-	  
-	</variablelist>
-      </sect2>
-      
-    </sect1>
+	  </listitem>
+	</varlistentry>
+	
+      </variablelist>
+    </sect2>
+    
+  </sect1>
 
 
-    <!-- for tense, so what did you do?
-	 I did systems administration
-	 or
-	 I was doing systems administration
-	 or
-	 I administered  
+  <!-- for tense, so what did you do?
+  I did systems administration
+  or
+  I was doing systems administration
+  or
+  I administered  
 
+  -->
+  
+  
+  <sect1 id="work">
+    <title>Work History / Experience</title>
+    
+    <!--
+    is this *only* "work experience"?
+    maybe this is all just "experience"?
     -->
     
-    
-    <sect1 id="work">
-      <title>Work History / Experience</title>
-      
-      <!--
-	  is this *only* "work experience"?
-	  maybe this is all just "experience"?
-      -->
-      
-      <para>
+    <para>
 	<itemizedlist>
+	<listitem>
+	  <para>Feb-2018 to current
+	    <address><personname><firstname>Deloitte</firstname></personname> <street>550 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
 	  
-	  <listitem>
-	    <para>May-2012 to current
-	    <address><personname><firstname>National Australia Bank</firstname></personname> <street><!-- 555 Collins, 500 Bourke -->700 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
-	    
-	    <para><emphasis>Senior Performance Engineer</emphasis></para>
+	  <para><emphasis>Director (Platform Engineering)</emphasis></para>
 
-	    <para>Delivered major re-engineering (distributed API microservices
+	  <para>
+<emphasis>Government</emphasis>
+Assisted "hybrid" Agile project planning using Atlassian Jira and Confluence.
+</para>
+
+	  <para>
+<emphasis>Superannuation</emphasis>
+Automated testing (Java, Selenium, React, Salesforce).
+</para>
+
+	  <para>
+<emphasis>On-line wagering</emphasis>
+Assessed (Agile) software delivery process.
+Reviewed AWS (PHP, Docker, Java, .Net) infrastructure solution design and architecture.
+</para>
+
+	  <para>
+<emphasis>Credit reporting</emphasis>
+Reviewed and tested (.Net, SQL Server) infrastructure solution design and architecture.
+Identified performance bottlenecks
+and tuning opportunities using
+Riverbed SteelCentral AppInternals,
+dotPeek decompiler,
+dotTrace profiler and SQL Server Management Studio.
+</para>
+
+	  <para>
+<emphasis>Telecommunications</emphasis>
+Delivered (DevSecPerfEtcOps) automation and integration proofs of concept using
+Splunk, Atlassian Bamboo / Jira / Bitbucket, Jenkins, Docker, New Relic,
+Dynatrace, Tenon.io, ZAP Proxy, Burp Suite, Nessus,
+HP MicroFocus LoadRunner / Performance Center, Selenium, Watir,
+JMeter, Gatling, AWS, Pivotal Cloud Foundry, CA DevTest / LISA, HAProxy.
+
+Administered Splunk and tuned Splunk queries.
+
+Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
+	    </para>
+	  
+	</listitem>
+	
+	<listitem>
+	  <para>May-2012 to Jan-2018
+	    <address><personname><firstname>National Australia Bank</firstname></personname> <street><!-- 555 Collins, 500 Bourke -->700 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
+	  
+	  <para><emphasis>Senior Performance Engineer</emphasis></para>
+
+	  <para>Delivered major re-engineering (distributed API microservices
 	    [sic]) and re-platforming (virtualisation) projects servicing
 	    retail and business customers.
             </para>
 
-	    <para>
+	  <para>
 	      Identified and resolved multiple SSL / TLS bottlenecks -
 	      Solaris 10 and Java 8,
 	      HAProxy,
@@ -530,7 +572,7 @@ Infrastructure as Code,
 	      IBM z Mainframe.
 	    </para>
 
-	    <para>
+	  <para>
 	      Identified, diagnosed and resolved system performance bottlenecks
 	      including
 	      Oracle database SQL queries (AWR),
@@ -543,8 +585,8 @@ Infrastructure as Code,
 	      Java class loaders,
 	      operating system - CPU, memory, I/O).
             </para>
-	    
-	    <para>
+	  
+	  <para>
 	      Planned,
 	      developed,
 	      executed,
@@ -561,19 +603,19 @@ Infrastructure as Code,
 		   https://www.itnews.com.au/news/how-nab-is-rebuilding-online-banking-piece-by-piece-441118
 	      -->
             </para>
-	    <!--	  
-		<para>
-		Agile -	Atlassian Jira.
-		</para>
-	    -->
-	    
-	    <para>
+	  <!--	  
+	  <para>
+	  Agile -	Atlassian Jira.
+	</para>
+	  -->
+	  
+	  <para>
 	      Promoted risk management.
 	      Streamlined non-functional requirements development.
 	      Forecast capacity (planning).
 	    </para>
 
-	    <para>
+	  <para>
 	      <!-- 
 		   test engineering Ensured ???
 	      -->
@@ -588,7 +630,7 @@ Infrastructure as Code,
 	      and resolution.
 
             </para>
-	    <para>
+	  <para>
 	      Development and operations (DevOps [sic]), integration and infrastructure -
 
 	      AWS, Azure, Puppet, Ansible, Jenkins, Docker,
@@ -610,21 +652,21 @@ Infrastructure as Code,
 	      WebSEAL, IBM System z mainframe (CPACF), Linux on z/VM.
 
             </para>
-	    
-	    
-	    <para>
-	    </para>
-	  </listitem>
 	  
-	  <listitem>
-	    <para>Sep-2011 to Jan-2012
+	  
+	  <para>
+	    </para>
+	</listitem>
+	
+	<listitem>
+	  <para>Sep-2011 to Jan-2012
 	    <address><personname><firstname>The School of St Jude</firstname></personname> <othername>Moshono Campus</othername> <pob>PO Box 11875</pob> <street></street><city></city><state>Arusha</state> <country><emphasis>Tanzania</emphasis></country> <otheraddr>East Africa</otheraddr><postcode></postcode></address></para>
-	    
-	    <para><emphasis>Systems Administrator / Database Analyst Developer / Network Engineer</emphasis></para>
-	    
-	    <!-- SysAdmin / DBAnalystDev / NetEngineer -->
+	  
+	  <para><emphasis>Systems Administrator / Database Analyst Developer / Network Engineer</emphasis></para>
+	  
+	  <!-- SysAdmin / DBAnalystDev / NetEngineer -->
 
-	    <para>
+	  <para>
               Network and systems, administration and support:
 	      
 	      Microsoft&reg; Windows XP / 7 / Server 2003, Exchange, Active
@@ -652,7 +694,7 @@ Infrastructure as Code,
 	      (WOL), PXE boot, etc.
 	    </para>
 
-            <para>
+	  <para>
               Issue / incident / problem management:
 
               Spiceworks.
@@ -660,44 +702,44 @@ Infrastructure as Code,
               Change / configuration management.
               Documentation and training.
 	    </para>
-	    
-	    <para>
+	  
+	  <para>
 	      Database analysis and development:
 	      
 	      Microsoft&reg; Access,
 	      Microsoft&reg; SQL Server, SQLite, PostgreSQL,
 	      Perl, AutoHotkey, bash.
 	    </para>
-	    
-	    <para>
+	  
+	  <para>
 	      Climb Mount Meru and Mount Kilimanjaro.
 	    </para>
 
-	    <!--
+	  <!--
 
-Network and systems, administration and support.
-Database, analysis and development.
-Issue / incident / problem management.
+	  Network and systems, administration and support.
+	  Database, analysis and development.
+	  Issue / incident / problem management.
 
-Reason for Leaving 
+	  Reason for Leaving 
 
-Physical exhaustion.
-Fixed contract.
-Change of lifestyle.
-Job location.
-Professional advancement.
+	  Physical exhaustion.
+	  Fixed contract.
+	  Change of lifestyle.
+	  Job location.
+	  Professional advancement.
 
-	    -->		  
-	  </listitem>
+	  -->		  
+	</listitem>
 
 
-	  <listitem>
-	    <para>Nov-2010 to May-2011
+	<listitem>
+	  <para>Nov-2010 to May-2011
 	    <address><personname><firstname>Australia Post</firstname></personname> <street>111 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country></address></para>
-	    
-	    <para><emphasis>Performance Test Analyst</emphasis></para>
+	  
+	  <para><emphasis>Performance Test Analyst</emphasis></para>
 
-	    <para>
+	  <para>
 	      BEA WebLogic / Oracle, 
 	      Tomcat / Microsoft&reg; SQL Server,
 	      Win32 GUI "thick client" (Visual Basic, ODBC)
@@ -707,8 +749,8 @@ Professional advancement.
 	      Selenium, Python, GNU win32 regex / pcre DLL, Perl, sed,
 	      cURL and other tools.
 	    </para>
-	    
-	    <para>Test planning, execution, analysis, reporting, test
+	  
+	  <para>Test planning, execution, analysis, reporting, test
 	    script development.
 
 	    Data migration: LoadRunner, Perl, sed, etc.
@@ -722,26 +764,26 @@ Professional advancement.
 	    -->
             </para>
 
-	    <!--
-		Reason for Leaving 
+	  <!--
+	  Reason for Leaving 
 
-Management differences.
-Contract expiry.
+	  Management differences.
+	  Contract expiry.
 
-	    -->
-	    
-	  </listitem>
+	  -->
+	  
+	</listitem>
 
 
-	  <!-- XXX. need to reduce PerformIQ to about 1500 words -->
+	<!-- XXX. need to reduce PerformIQ to about 1500 words -->
 
-	  <listitem>
-	    <para>Aug-2003 to Aug-2008
+	<listitem>
+	  <para>Aug-2003 to Aug-2008
 	    <address><personname><firstname>PerformIQ Pty. Ltd.</firstname></personname> <street>Level 6 170 Queen St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country></address></para>
 
-	    <para><emphasis>Consultant / Professional Services</emphasis></para>
+	  <para><emphasis>Consultant / Professional Services</emphasis></para>
 
-            <para>Web-based project collaboration platform (JBoss,
+	  <para>Web-based project collaboration platform (JBoss,
 	    Lucene, Hibernate, ActiveMQ, JBoss, Spring, MS SQL Server)
 	    application performance regression testing.  HP
 	    LoadRunner. VUGen script development. 
@@ -754,27 +796,27 @@ Contract expiry.
 	    -->
 	    </para>
 
-	    <para>BEA WebLogic 7.0 J2EE / Informix performance
+	  <para>BEA WebLogic 7.0 J2EE / Informix performance
 	    testing. Mercury Interactive (HP) LoadRunner, Python, GNU
 	    win32 regex DLL, Perl, sed, cURL, etc.
 	    <!-- DHL. Agentis. -->
 	    </para>
 
-	    <para>Performance monitoring, analysis and modelling. TeamQuest.
+	  <para>Performance monitoring, analysis and modelling. TeamQuest.
 	    </para>
 
-	    <para>Win32 GUI Progress 4GL "thick client" application
+	  <para>Win32 GUI Progress 4GL "thick client" application
 	    performance testing. Python, Mark Hammond's win32 extensions.
 	    <!-- South East Water. -->
             </para>
 
-	    <para>
+	  <para>
 	      G-Log GC3 J2EE Web / XML application performance testing.
 	      Python.
 	      <!-- Toll. -->
 	    </para>
 
-	    <para>
+	  <para>
 	      <!--IBA Health / iSoft Group Limited -->
 	      Medical patient
 	      billing system application integration. Java, Informix,
@@ -785,7 +827,7 @@ Contract expiry.
 	      -->
 	    </para>   
 
-	    <para>
+	  <para>
 	      Desktop and server support:
 	      
 	      MS Windows Server 2003, Active Directory, MS SQL Server
@@ -793,19 +835,19 @@ Contract expiry.
 	      Desktop, ACCPAC, PPTP / IPsec / OpenVPN.
 	    </para>
 
-	    <para>
+	  <para>
 	      Java / Perl / Expect / Tcl / CGI integration application
 	      development.  ARGOS Satellite Data Collection System.
 	    </para>
 
 
-	    <para>
+	  <para>
 	      Web site development. PHP / Typo3 Content Management
 	      System, PHP / MySource Content Management System,
 	      Macromedia Flash, etc.
 	    </para>
 
-	    <para>
+	  <para>
 	      MS Access / MySQL database pseudo-synchronisation. rsync
 	      and cURL.
 
@@ -813,20 +855,20 @@ Contract expiry.
 	      analysis. Web-based financial reporting application.
 	    </para>
 
-	    <!--
-		<para>Proofreading.</para>
-	    -->
-	    
-	    <para>Windows&reg; library (DLL) development. Python / C /
+	  <!--
+	  <para>Proofreading.</para>
+	  -->
+	  
+	  <para>Windows&reg; library (DLL) development. Python / C /
 	    C++.</para>
-	    
-	    <!--
-		<para>Source code version control. CVS and Subversion.</para>
-	    -->
+	  
+	  <!--
+	  <para>Source code version control. CVS and Subversion.</para>
+	  -->
 
-	    <para>CGI application development. Perl / DBI, PHP and Python.</para>
+	  <para>CGI application development. Perl / DBI, PHP and Python.</para>
 
-	    <para>Network and systems administration:
+	  <para>Network and systems administration:
 
 	    Windows&reg; 2000 / XP / Server 2003, Active Directory,
 	    FreeBSD, OpenBSD, Check Point FireWall-1 Next Generation
@@ -836,44 +878,44 @@ Contract expiry.
 	    Postfix, AMAViS, ClamAV, firewalls / VPN / IPsec -
 	    iptables, pf / pfctl - NAT / DNAT / SNAT, FreeS/WAN,
 	    OpenSWAN, Cisco IOS.</para>
-	    
-	    <!-- 
-		 
-		 Reason for Leaving 
-		 Leave. Sabbatical. Travel.
+	  
+	  <!-- 
+	  
+	  Reason for Leaving 
+	  Leave. Sabbatical. Travel.
 
-	    -->
-	    
-	  </listitem>
+	  -->
+	  
+	</listitem>
 
 
 
-	  <listitem>
-	    <para><emphasis>Freelance IT Counselling</emphasis></para>
-            
-	    <para>Web application development (Perl, CGI::Application).</para>
-	    
-	    <para>SMS / SMPP gateway development, maintenance and
+	<listitem>
+	  <para><emphasis>Freelance IT Counselling</emphasis></para>
+	  
+	  <para>Web application development (Perl, CGI::Application).</para>
+	  
+	  <para>SMS / SMPP gateway development, maintenance and
 	    administration (C, Perl); integration with Mobileway,
 	    Vodafone and Optus SMSCs.</para>
 
-	    <para>Automated Web application testing (Selenium,
+	  <para>Automated Web application testing (Selenium,
 	    WWW::Mechanize, curl, maxq, The Grinder, etc.).</para>
 
-	    <para>Systems administration (Cacti, ntop, snort, OSSIM).</para>
+	  <para>Systems administration (Cacti, ntop, snort, OSSIM).</para>
 
-	  </listitem>
-
-
+	</listitem>
 
 
 
-	  <listitem>
-	    <para>Mar-2005 to Sep-2007<address><personname><firstname>Symstream Technology Group Ltd.</firstname></personname> <street>Level 1 3 Chester St.</street> <city>Oakleigh</city> <state>VIC</state> <postcode>3166</postcode> <country><emphasis>Australia</emphasis></country></address></para> 
 
-	    <para><emphasis>Systems Engineer / Test Engineer / Systems Administrator</emphasis></para>
 
-	    <para>Network application software development, thread
+	<listitem>
+	  <para>Mar-2005 to Sep-2007<address><personname><firstname>Symstream Technology Group Ltd.</firstname></personname> <street>Level 1 3 Chester St.</street> <city>Oakleigh</city> <state>VIC</state> <postcode>3166</postcode> <country><emphasis>Australia</emphasis></country></address></para> 
+
+	  <para><emphasis>Systems Engineer / Test Engineer / Systems Administrator</emphasis></para>
+
+	  <para>Network application software development, thread
 	    debugging, Valgrind memory checking, performance,
 	    integration and network systems testing involving such
 	    wonderful technologies as omniORB / omniORBpy (CORBA),
@@ -885,42 +927,42 @@ Contract expiry.
 	    and Intel SS7 hardware (ISUP).
 	    </para>
 
-	    <para>International systems deployment and staff training. 24x7 business partner
+	  <para>International systems deployment and staff training. 24x7 business partner
 	    support and fault analysis (predominantly using tcpdump / wireshark).</para>
-	    
-	    <para>Automated win32 GUI and embedded Linux testing.</para>
-	    
-	    <!--
-		<para>Subversion source control with Trac. RPM packaging.</para>
-	    -->
-	    
-	    <para>Systems administration: MS Windows 2003 Server, MS
+	  
+	  <para>Automated win32 GUI and embedded Linux testing.</para>
+	  
+	  <!--
+	  <para>Subversion source control with Trac. RPM packaging.</para>
+	  -->
+	  
+	  <para>Systems administration: MS Windows 2003 Server, MS
 	    Exchange 2003, etc., Linux, OpenBSD, Mambo / Joomla CMS,
 	    smokeping, OpenVPN / OpenVPN GUI, Shorewall, named / bind,
 	    Courier IMAP, OpenLDAP, Postfix, Samba, VMware, vsftpd, and Cisco IOS.</para>
 
-	    <!--
-		Reason for Leaving 
-		Professional advancement. Change of lifestyle.
-	    -->
-          </listitem>
+	  <!--
+	  Reason for Leaving 
+	  Professional advancement. Change of lifestyle.
+	  -->
+	</listitem>
 
 
 
 
-	  <listitem>
-	    <para>Nov-2001 to Jul-2003
+	<listitem>
+	  <para>Nov-2001 to Jul-2003
 	    <address><personname><firstname>Aspect Data Pty. Ltd. (formerly dotWAP Pty. Ltd.)</firstname></personname> <street>Level 2 71-75 City Rd.</street> <city>Southbank</city> <state>VIC</state> <postcode>3006</postcode> <country><emphasis>Australia</emphasis></country></address></para>
 
-	    <para><emphasis>Technical Lead / Systems
+	  <para><emphasis>Technical Lead / Systems
 	    Administrator</emphasis></para>
 
-	    <para>Linux / UNIX-style development in C / C++ utilising
+	  <para>Linux / UNIX-style development in C / C++ utilising
 	    third-party libraries, including GNet, GLib, GMime, zlib,
 	    ImageMagick, AutoGen, GD, c-client, OpenSSL and dot.conf.
 	    </para>
-	    
-	    <para>Lead major re-engineering and clean-up effort
+	  
+	  <para>Lead major re-engineering and clean-up effort
 	    involving the company's flagship Mobitex-to-IP gateway
 	    product; eventually completing a near total
 	    re-implementation using standard (reusable) third party
@@ -929,12 +971,12 @@ Contract expiry.
 	    extensive (and exhaustive) memory debugging using
 	    Valgrind, dmalloc, Fortify, Electric Fence, etc.
 	    </para>
-	    
-	    <para>Wireless gateway [re]development involving Mobitex
+	  
+	  <para>Wireless gateway [re]development involving Mobitex
 	    (Ericsson / Tyco International) and DataTAC (Motorola /
 	    Telstra) RF networks.</para>
-	    
-	    <para>Multi-platform PDA application development in Embedded
+	  
+	  <para>Multi-platform PDA application development in Embedded
 	    C / C++ (Palm - PalmOS SDK, POSE, PilRC, PRC-Tools GNU
 	    cross-compilation tool-chain, GDB multi-segment debugger,
 	    distcc; CNI - CNI SDK, Cygwin, MS-VS (MS Visual Studio);
@@ -943,51 +985,51 @@ Contract expiry.
 	    Application prototyping using Java (J2ME, J2ME Wireless
 	    Toolkit, Ant).
 	    </para>
-	    
-	    <para>Lead development of email (IMAP, MS Exchange), Web
+	  
+	  <para>Lead development of email (IMAP, MS Exchange), Web
 	    browser (HTML, WML, iMode), and Jabber-based IM (instant
 	    messaging) PDA client and server applications.</para>
 
-	    <para>Windows library (DLL) and application (MAPI / Exchange)
+	  <para>Windows library (DLL) and application (MAPI / Exchange)
 	    development.</para>
-	    
-	    <para>Maintained Windows cross-compiling build environments
+	  
+	  <para>Maintained Windows cross-compiling build environments
 	    (Cygwin, mingw).</para>
 
-	    <para>WiFi / 802.11b administration and video conferencing
+	  <para>WiFi / 802.11b administration and video conferencing
 	    application prototyping.</para>
-	    
-	    <!--
-		<para>Source code version control. CVS.</para>
-	    -->
-	    
-	    <para>Compression (ZLIB - RFC 1950) and encryption (3DES)
+	  
+	  <!--
+	  <para>Source code version control. CVS.</para>
+	  -->
+	  
+	  <para>Compression (ZLIB - RFC 1950) and encryption (3DES)
 	    application integration.</para>
-	    
-	    <!-- XXX. Sybase SMS product name??? -->
-	    
-	    <para>XML-based SMS client and middle-ware / gateway
+	  
+	  <!-- XXX. Sybase SMS product name??? -->
+	  
+	  <para>XML-based SMS client and middle-ware / gateway
 	    development (Kannel, libxml, PostgreSQL, MySQL), and
 	    integration with Mobileway (Mobile 365, Sybase 365),
 	    Radius ED, Telstra, Vodafone and Optus SMPP SMSCs,
 	    providing a large gamut of SMS-based services, including
 	    premium services (i.e. reverse billing).</para>
-	    
-	    <para>IPv4 low level protocol debugging (Linux kernel 2.2.x
+	  
+	  <para>IPv4 low level protocol debugging (Linux kernel 2.2.x
 	    / 2.4.x, DIVERT sockets, lcrzo packet manipulation
 	    library).</para>
 
-	    <para>GPG (PGP - Pretty Good Privacy) applications
+	  <para>GPG (PGP - Pretty Good Privacy) applications
 	    integration.</para>
 
-	    <para>VPN / IPsec, FreeS/WAN, isakmpd, Cisco IOS.</para>
+	  <para>VPN / IPsec, FreeS/WAN, isakmpd, Cisco IOS.</para>
 
-	    <para>CGI application development in Perl / DBI and PHP /
+	  <para>CGI application development in Perl / DBI and PHP /
 	    ADODB / PEAR.</para>
 
-	    <!-- XXX. NAI ?? Network Associates I?? -->
+	  <!-- XXX. NAI ?? Network Associates I?? -->
 
-	    <para>Systems Administration (Amanda, UW imapd, UW ipop3d,
+	  <para>Systems Administration (Amanda, UW imapd, UW ipop3d,
 	    Squid, NFS / NIS, RPC (remote power control), autofs,
 	    Samba, WINS, DHCP, rsync, LPRng, AutoRPM, daemontools,
 	    qmail, BIND (DNS), Net-SNMP, MRTG / RRDtool, Cyrus IMAPD,
@@ -996,193 +1038,193 @@ Contract expiry.
 	    ipchains, pf / pfctl - NAT / DNAT / SNAT, a little
 	    password recovery on Windows NT / 2000, Cisco IOS).</para>
 
-	    <!-- 
-		 Reason for Leaving 
-		 Financial security. Company closed.
-	    -->
-
-	  </listitem>
-
-
-	  <!--
-
-<listitem>
-<para>May-2002 to Sep-2002
-<address><personname><firstname>Aspect Data Pty. Ltd.</firstname></personname> <street>71-75 City Rd. Southbank</street> <state>VIC</state> <postcode>3006</postcode> </address></para>
-
-<para><emphasis>Systems Administrator / Developer</emphasis></para>
-<para>(see Sep-2002 previous)</para>
-
-</listitem>
-
-
-<listitem>
-<para>Nov-2001 to May-2002
-<address><personname><firstname>dotWAP Pty. Ltd.</firstname></personname> <street>71-75 City Rd.</street> <city>Southbank</city> <state>VIC</state> <postcode>3006</postcode> </address></para>
-
-<para><emphasis>Systems Administrator / Developer</emphasis></para>
-<para>(see Sep-2002 previous)</para>
-
-</listitem>
-
+	  <!-- 
+	  Reason for Leaving 
+	  Financial security. Company closed.
 	  -->
 
+	</listitem>
 
 
-	  <listitem>
-	    <para>1999 to 2002 (independent contracting)
+	<!--
+
+	<listitem>
+	<para>May-2002 to Sep-2002
+	<address><personname><firstname>Aspect Data Pty. Ltd.</firstname></personname> <street>71-75 City Rd. Southbank</street> <state>VIC</state> <postcode>3006</postcode> </address></para>
+
+	<para><emphasis>Systems Administrator / Developer</emphasis></para>
+	<para>(see Sep-2002 previous)</para>
+
+      </listitem>
+
+
+	<listitem>
+	<para>Nov-2001 to May-2002
+	<address><personname><firstname>dotWAP Pty. Ltd.</firstname></personname> <street>71-75 City Rd.</street> <city>Southbank</city> <state>VIC</state> <postcode>3006</postcode> </address></para>
+
+	<para><emphasis>Systems Administrator / Developer</emphasis></para>
+	<para>(see Sep-2002 previous)</para>
+
+      </listitem>
+
+	-->
+
+
+
+	<listitem>
+	  <para>1999 to 2002 (independent contracting)
 
 	    <address><personname><firstname>Various clients</firstname></personname></address></para>
-	    
-	    <para><emphasis>Systems Administrator / Developer</emphasis></para>
-	  </listitem>
-
-
-
-	  <![%draft;[
-
-
-
-
-	  <listitem>
-	    <para>2001 to 2002 (self-employed / independent contracting)
-	    <address><personname><firstname>Atlas IT R&amp;D Pte. Ltd.</firstname></personname> <street>46 Lor 17. Geylang #02-04 Enterprise Industrial Building</street> <state>Singapore</state> <postcode>388568</postcode> <country><emphasis>Singapore</emphasis></country></address></para>
-	    
-	    <!--
-		<para><emphasis>Systems Administrator / Developer</emphasis></para>
-
-<para>Systems administration (Cobalt RaQ4i, Donovan),
-Apache, MySQL, PostgreSQL, Tomcat (Java Servlets), BIND
-(DNS), Sendmail, qmail, NFSv2, ext3, and SSH. </para>
-
-<para>Development (PHP, Perl, C, Java / JSP / JDBC, XML).
-Developing Web-based accounting software (SaaS). Technical
-support, and project management. Constructed fax-to-PDF
-gateway. Security audits.</para>
-
-	    -->
-
-	  </listitem>
-
-
-	  <!-- XXX. tense ??? -->
-
-	  <listitem>
-	    <para>mid-2001 to 2002 (self-employed / independent contracting)
-	    <address><personname><firstname>Fr&amp;nk Design Pty. Ltd.</firstname></personname> <street>213 Victoria St.</street> <city>West Melbourne</city> <state>VIC</state> <postcode>3003</postcode> <country><emphasis>Australia</emphasis></country></address></para>
-
-	    <!--
-		<para><emphasis>Web Developer / Trainer / Reader / Developer</emphasis></para>
-		
-		<para>Web development (HTML, PHP / Perl) and training
-		(Macintosh). Editing and proofreading.</para>
-	    -->
-
-	  </listitem>
-
-
-
-
-	  <listitem>
-	    <para>2001 to 2002 (self-employed / independent contracting)
-	    <address><personname><firstname>Jenkins Cool Stores</firstname></personname> <street>1166 High Street Rd.</street> <city>Wantirna South</city> <state>VIC</state> <postcode>3152</postcode> <country><emphasis>Australia</emphasis></country></address></para>
-	    
-	    <!--
-		<para>PC support (Windows 98/2000) and consulting. Systems
-		administration (qmail, BIND / DNS, DHCP, Samba,
-		etc.). Intranet CGI application development (logistics,
-		warehouse management, groupware). Perl / PHP /
-		PostgreSQL, Linux application servers.</para>
-	    -->
-
-	  </listitem>
-
-
-
-
-
-	  <listitem>
-	    <para>Sep-1999 to Nov-2000
-	    <address><personname><firstname>PowerNET Computer Consultants Pty. Ltd.</firstname></personname> <street>50 Madden Gr.</street> <city>Burnley</city> <state>VIC</state> <postcode>3121</postcode> <country><emphasis>Australia</emphasis></country></address></para>
-	    
-	    <!--
-
-<para><emphasis>Systems Administrator / Developer / Web Designer</emphasis></para>
-
-<para>Systems administration, including shell and Perl
-scripting. Security auditing. Web development and
-maintenance, and Windows / Macintosh support.</para>
-	    -->
-
-	  </listitem>
-
-
-	  ]]>
-
-	  <!-- old work -->
 	  
-	</itemizedlist>
+	  <para><emphasis>Systems Administrator / Developer</emphasis></para>
+	</listitem>
+
+
+
+	<![%draft;[
+
+
+
+
+	<listitem>
+	<para>2001 to 2002 (self-employed / independent contracting)
+	<address><personname><firstname>Atlas IT R&amp;D Pte. Ltd.</firstname></personname> <street>46 Lor 17. Geylang #02-04 Enterprise Industrial Building</street> <state>Singapore</state> <postcode>388568</postcode> <country><emphasis>Singapore</emphasis></country></address></para>
+	
+	<!--
+	<para><emphasis>Systems Administrator / Developer</emphasis></para>
+
+	<para>Systems administration (Cobalt RaQ4i, Donovan),
+	Apache, MySQL, PostgreSQL, Tomcat (Java Servlets), BIND
+	(DNS), Sendmail, qmail, NFSv2, ext3, and SSH. </para>
+
+	<para>Development (PHP, Perl, C, Java / JSP / JDBC, XML).
+	Developing Web-based accounting software (SaaS). Technical
+	support, and project management. Constructed fax-to-PDF
+	gateway. Security audits.</para>
+
+	-->
+
+      </listitem>
+
+
+	<!-- XXX. tense ??? -->
+
+	<listitem>
+	<para>mid-2001 to 2002 (self-employed / independent contracting)
+	<address><personname><firstname>Fr&amp;nk Design Pty. Ltd.</firstname></personname> <street>213 Victoria St.</street> <city>West Melbourne</city> <state>VIC</state> <postcode>3003</postcode> <country><emphasis>Australia</emphasis></country></address></para>
+
+	<!--
+	<para><emphasis>Web Developer / Trainer / Reader / Developer</emphasis></para>
+	
+	<para>Web development (HTML, PHP / Perl) and training
+	(Macintosh). Editing and proofreading.</para>
+	-->
+
+      </listitem>
+
+
+
+
+	<listitem>
+	<para>2001 to 2002 (self-employed / independent contracting)
+	<address><personname><firstname>Jenkins Cool Stores</firstname></personname> <street>1166 High Street Rd.</street> <city>Wantirna South</city> <state>VIC</state> <postcode>3152</postcode> <country><emphasis>Australia</emphasis></country></address></para>
+	
+	<!--
+	<para>PC support (Windows 98/2000) and consulting. Systems
+	administration (qmail, BIND / DNS, DHCP, Samba,
+	etc.). Intranet CGI application development (logistics,
+	warehouse management, groupware). Perl / PHP /
+	PostgreSQL, Linux application servers.</para>
+	-->
+
+      </listitem>
+
+
+
+
+
+	<listitem>
+	<para>Sep-1999 to Nov-2000
+	<address><personname><firstname>PowerNET Computer Consultants Pty. Ltd.</firstname></personname> <street>50 Madden Gr.</street> <city>Burnley</city> <state>VIC</state> <postcode>3121</postcode> <country><emphasis>Australia</emphasis></country></address></para>
+	
+	<!--
+
+	<para><emphasis>Systems Administrator / Developer / Web Designer</emphasis></para>
+
+	<para>Systems administration, including shell and Perl
+	scripting. Security auditing. Web development and
+	maintenance, and Windows / Macintosh support.</para>
+	-->
+
+      </listitem>
+
+
+	]]>
+
+	<!-- old work -->
+	
+      </itemizedlist>
 	
       </para>
-    </sect1>
+  </sect1>
 
 
-    <!--
-	&section-interests;
-    -->
+  <!--
+  &section-interests;
+  -->
 
-    <![%draft;[
+  <![%draft;[
 
-    <sect1 id="predictions">
-      <title>Predictions</title>
-      
-      <para>
-	CD technology c. 1999 ///
+  <sect1 id="predictions">
+  <title>Predictions</title>
+  
+  <para>
+  CD technology c. 1999 ///
       </para>
-      
-      
+  
+  
     </sect1>
 
-    ]]> <!-- end %draft -->
+  ]]> <!-- end %draft -->
 
-    <!-- Section1: references -->
+  <!-- Section1: references -->
 
-    <!--
+  <!--
 
-<sect1 id="references">
-<title>References</title>
+  <sect1 id="references">
+  <title>References</title>
 
-<para>
-<emphasis>References available on request.</emphasis>
+  <para>
+  <emphasis>References available on request.</emphasis>
 </para>
 
 
 </sect1>
 
-    -->
+  -->
 
 
-    <!--
+  <!--
 
-<sect1 id="the-end">
+  <sect1 id="the-end">
 
-<title>The End</title>
+  <title>The End</title>
 
-<para>	  
-All trademarks are the property of their respective owners.  In
-particular, 
-<ulink
-url="http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx">
-<filename>
-http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx</filename></ulink>
+  <para>	  
+  All trademarks are the property of their respective owners.  In
+  particular, 
+  <ulink
+  url="http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx">
+  <filename>
+  http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx</filename></ulink>
 </para>
 
-<para>Imus.</para>
+  <para>Imus.</para>
 
 </sect1>
 
-    -->
-    
+  -->
+  
 </article>
 
 <!-- vim: set noexpandtab ts=4: -->
