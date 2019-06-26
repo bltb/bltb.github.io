@@ -1,15 +1,14 @@
 Benjamin Lee
 
-    40 Ellsa Street
-    Balwyn North
+
     Melbourne
-    Victoria 3104
+    Victoria
     Australia
     
     mob:+61 4 16 BEN LEE (236 533)
     
     <benjamin.lee@realthought.net>
-    
+
   
 
 To invent, you need a good imagination and a pile of junk. -- Thomas Edison
@@ -21,9 +20,9 @@ The reward of a thing well done is to have done it. -- Emerson
 
 When it's dark enough you can see the stars. -- Ralph Waldo Emerson
 
-Version 0.0.33
+Version 0.0.34
 
-Generated 2019-06-18T04:18:21+10:00
+Generated 2019-06-26T22:00:53+10:00
 
 
 

@@ -10,7 +10,7 @@
 
 <!ENTITY % draft "IGNORE">
 
-<!entity Version "Version 0.0.33">
+<!entity Version "Version 0.0.34">
 ]>
 
 <!-- 
@@ -29,18 +29,15 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
 	
 	<affiliation>
 	  <address>
-	    <street>40 Ellsa Street</street>
-	    <otheraddr>Balwyn North</otheraddr>
+
 	    <city>Melbourne</city>
-	    <state>Victoria</state> <postcode>3104</postcode>
+	    <state>Victoria</state>
 	    <country>Australia</country>
 	    
 	    <phone>mob:+61 4 16 BEN LEE (236 533)</phone>
 	    
 	    <email>benjamin.lee@realthought.net</email>
-	    <!--
-		<otheraddr>Citizenship: Australian</otheraddr>
-	    -->
+
 	  </address>
 	  
 	</affiliation>
