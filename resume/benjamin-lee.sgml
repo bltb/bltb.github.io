@@ -1,28 +1,17 @@
-<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook V4.2//EN" [
-<!entity Emacs "<application>Emacs</application>">
-<!entity Vim "<application>Vim</application>">
-<!entity ChangeLog "<filename>ChangeLog</filename>">
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook V4.5//EN"
+ [
+ <!ENTITY Emacs "<application>Emacs</application>">
+<!ENTITY Vim "<application>Vim</application>">
+<!ENTITY ChangeLog "<filename>ChangeLog</filename>">
 <!ENTITY TimeStamp SYSTEM "timestamp.txt">
-
 <!ENTITY Travels SYSTEM "travels.txt">
-
 <!ENTITY section-interests SYSTEM "section-interests.sgml">
-
 <!ENTITY % draft "IGNORE">
-
-<!entity Version "Version 0.0.34">
+<!ENTITY Version "Version 0.0.35">
 ]>
 
-<!-- 
-http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
--->
-
 <article id="index">
-  <!-- Header -->
   <articleinfo>
-    <!--
-    <title>Resume / Curriculum Vitae</title>
-    -->
     <authorgroup>
       <author>
 	<firstname>Benjamin</firstname> <surname>Lee</surname>
@@ -33,31 +22,22 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
 	    <city>Melbourne</city>
 	    <state>Victoria</state>
 	    <country>Australia</country>
-	    
+
 	    <phone>mob:+61 4 16 BEN LEE (236 533)</phone>
-	    
+
 	    <email>benjamin.lee@realthought.net</email>
 
 	  </address>
-	  
+
 	</affiliation>
 	
       </author>
     </authorgroup>
-    
-    <!--
-    
-    <copyright>
-    <year>2000 - 2017</year>
-    <holder>Benjamin Lee</holder>
-  </copyright>
-    
-    -->    
 
     <abstract>
       <para>To invent, you need a good imagination and a pile of junk.
       -- Thomas Edison</para>
-      
+
       <para>Certainly the game is rigged. Don't let that stop you; if
       you don't bet, you can't win. -- Robert Heinlein, "Time Enough
       For Love"</para>
@@ -369,7 +349,7 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
 	<varlistentry>
 	  <term>Languages</term>
 	  <listitem>
-	    <para>ANSI C, ANSI / ISO C++, Perl, Python, shell / bash,
+	    <para>ANSI C, ANSI / ISO C++, Perl, Python, shell / Bash,
 	      SQL,
 	      Ruby, Go, Java,
 	      Groovy,
@@ -395,7 +375,7 @@ http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version
 	Internet Explorer / Outlook,
 	Netscape Communicator, Mozilla, MYOB Accounting,
 	QuarkXPress, the Microsoft&reg; Office suite of virus
-	spreading programs (over 20 years experience, beginning
+	spreading programs (over 30 years experience, beginning
 	with a humble Microsoft&reg; Word on a Macintosh&reg;
 	Plus), and really too many others to list.</para>
       </listitem>
@@ -500,11 +480,138 @@ Infrastructure as Code,
     is this *only* "work experience"?
     maybe this is all just "experience"?
     -->
-    
+
     <para>
 	<itemizedlist>
+
 	<listitem>
-	  <para>Feb-2018 to current
+	  <para>Jun-2019 to current
+	    <address><personname><firstname>National Australia Bank</firstname></personname> <street>700 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
+
+	  <para><emphasis>Senior Analyst (DevOps and Automation)</emphasis></para>
+
+<!--
+<para>
+Atlassian Jira Kanban
+Assisted "hybrid" Agile project planning using Atlassian Jira and Confluence.
+
+</para>
+-->
+
+
+<para>
+<emphasis>Technologies and tools</emphasis>
+Docker, Jenkins, Gradle, Groovy, Ansible, Python,
+Java / Spring,
+Python, NodeJS / JavaScript,
+
+WebSphere Liberty Profile,
+Apache Tomcat,
+NGINX / Kong, HAProxy,
+IBM WebSphere MQ, F5 BIG-IP,
+Confluent Kafka,
+
+Solaris, Linux,
+
+AWS (IAM, ECS, RDS, EC2, CloudFormation, DynamoDB),
+
+Gatling, Splunk, SonarQube, CheckMarx,
+
+Grafana, InfluxDB, Splunk,
+AppDynamics, Atlassian Jira and Confluence.
+
+</para>
+
+
+<para>
+
+Supported multiple Agile Scrum teams by
+troubleshooting failures in CI/CD build pipelines.
+
+Identified optimisations and improvement opportunites.
+
+Assisted performance testing and analysis.
+
+</para>
+
+
+<para>
+
+Identified and fixed Java application performance issues
+(Spring Boot 2.x TaskExecutor thread pool configuration and tuning,
+Spring Framework MimeTypeUtils java.util.concurrent.locks defect).
+
+</para>
+
+<para>
+Reduced project delivery time and cost
+by avoiding unnecessary change and
+"keeping it simple".
+</para>
+
+<para>
+Led multiple, non-trivial,
+X.509 client authentication and web server authentication
+certificate deployments (i.e. renewals)
+into live production systems
+without service interruption
+or incident.
+	    </para>
+
+
+<!--
+<para>
+
+Identified performance bottlenecks
+and tuning opportunities using
+
+    </para>
+
+	  <para>
+Integration ???
+</para>
+-->
+
+<para>
+
+<!--
+
+<emphasis>
+DevSecPerfEtcOps / SRE
+</emphasis>
+-->
+
+Tuned LDAP query to 
+noticeably improve user log-in experience.
+
+Debugged and fixed IAM policy issues
+involving various AWS services including
+KMS, S3, VPC endpoints, EC2 Auto Scaling Groups.
+
+</para>
+
+<para>
+
+<!--
+<emphasis>
+Software development
+</emphasis>
+-->
+
+Developed, tested and reviewed
+application and infrastructure
+code.
+
+Reviewed and assisted infrastructure and database design.
+
+</para>
+
+
+	  
+	</listitem>
+
+	<listitem>
+	  <para>Feb-2018 to Jun-2019
 	    <address><personname><firstname>Deloitte</firstname></personname> <street>550 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
 	  
 	  <para><emphasis>Director (Platform Engineering)</emphasis></para>
@@ -547,13 +654,51 @@ Administered Splunk and tuned Splunk queries.
 
 Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 	    </para>
-	  
+
 	</listitem>
 	
+
 	<listitem>
-	  <para>May-2012 to Jan-2018
-	    <address><personname><firstname>National Australia Bank</firstname></personname> <street><!-- 555 Collins, 500 Bourke -->700 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
-	  
+	  <para>Apr-2017 to Jan-2018
+	    <address><personname><firstname>National Australia Bank</firstname></personname> <street>200 Victoria Pde.</street> <city>East Melbourne</city> <state>VIC</state> <postcode>3002</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
+
+	  <para><emphasis>Senior Consultant</emphasis></para>
+
+<para>
+
+
+<emphasis>Cloud (AWS) Infrastructure</emphasis>
+
+Developed, tested and supported infrastructure
+(IAM, VPC, EC2, S3, Direct Connect, etc.)
+as code
+using Puppet, Packer, Terraform, Python, etc..
+
+</para>
+
+<para>
+Developed, tested and / or supported infrastructure services
+(VMware ESX,
+Akamai, NGINX Plus,
+Squid, DNS / BIND).
+</para>
+
+<para>
+Assisted with Pivotal Cloud Foundry proof of concept.
+</para>
+
+<para>
+Automated "toil" work involving
+Jira, Confluence, email, Jenkins, etc.
+using Selenium, Bash, Python, Ruby, etc.
+</para>
+
+	</listitem>
+
+	<listitem>
+	  <para>May-2012 to Apr-2017
+	    <address><personname><firstname>National Australia Bank</firstname></personname> <street>700 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
+
 	  <para><emphasis>Senior Performance Engineer</emphasis></para>
 
 	  <para>Delivered major re-engineering (distributed API microservices
@@ -576,36 +721,36 @@ Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 	      JMS over IBM WebSphere MQ,
 	      JVM garbage collection,
 	      JVM and native memory usage and leaks,
-	      code design (review / profiling), 
+	      code design (review / profiling),
 	      TCP/IP network stack,
-	      resource contention (threads, 
+	      resource contention (threads,
 	      Java class loaders,
 	      operating system - CPU, memory, I/O).
             </para>
-	  
+
 	  <para>
 	      Planned,
 	      developed,
 	      executed,
 	      analysed,
 	      and reported on
-	      performance tests 
+	      performance tests
 	      using
 	      Gatling, HP ALM / Performance Center (LoadRunner).
 
 	      Monitored, visualised and analysed system performance and usage
 	      using InfluxDB, Grafana, Elasticsearch, Kibana, Logstash, Splunk,
 	      CA Wily Application Performance Management (APM) Introscope, hawt.io., Adobe Analytics / Omniture.
-	      <!-- 
+	      <!--
 		   https://www.itnews.com.au/news/how-nab-is-rebuilding-online-banking-piece-by-piece-441118
 	      -->
             </para>
-	  <!--	  
+	  <!--	
 	  <para>
 	  Agile -	Atlassian Jira.
 	</para>
 	  -->
-	  
+
 	  <para>
 	      Promoted risk management.
 	      Streamlined non-functional requirements development.
@@ -613,14 +758,14 @@ Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 	    </para>
 
 	  <para>
-	      <!-- 
+	      <!--
 		   test engineering Ensured ???
 	      -->
 
 	      Systems reliability and performance engineering -
-	      <!-- innovation, 
+	      <!-- innovation,
 	      -->
-	      
+
 	      analysis, design, development,
 	      testing, support,
 	      failure analysis
@@ -632,25 +777,25 @@ Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 
 	      AWS, Azure, Puppet, Ansible, Jenkins, Docker,
 	      Vagrant,
-	      Pivotal Spring (AOP / DI), Netflix Hystrix, Terracotta Quartz Scheduler, 
+	      Pivotal Spring (AOP / DI), Netflix Hystrix, Terracotta Quartz Scheduler,
 	      Hibernate, Play,
 	      Gradle,
-	      Apache Camel, Apache ActiveMQ, 
+	      Apache Camel, Apache ActiveMQ,
 	      NGINX, HAProxy, Java J2EE, Apache Tomcat,
 
 	      Axway API Gateway,
 
 	      Oracle Database 9i / 10g / 11g, Microsoft SQL Server, iTrinegy network
-	      emulator, Thales SafeSign HSM, 
-	      
-	      IBM - WebSphere Application Server Network Deployment, 
+	      emulator, Thales SafeSign HSM,
+
+	      IBM - WebSphere Application Server Network Deployment,
 	      WebSphere Portal Server, WebSphere Liberty Profile,
 	      WebSphere MQ, Business Process Manager, Tivoli Access Manager -
 	      WebSEAL, IBM System z mainframe (CPACF), Linux on z/VM.
 
             </para>
-	  
-	  
+
+
 	  <para>
 	    </para>
 	</listitem>
@@ -658,19 +803,19 @@ Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 	<listitem>
 	  <para>Sep-2011 to Jan-2012
 	    <address><personname><firstname>The School of St Jude</firstname></personname> <othername>Moshono Campus</othername> <pob>PO Box 11875</pob> <street></street><city></city><state>Arusha</state> <country><emphasis>Tanzania</emphasis></country> <otheraddr>East Africa</otheraddr><postcode></postcode></address></para>
-	  
+
 	  <para><emphasis>Systems Administrator / Database Analyst Developer / Network Engineer</emphasis></para>
-	  
+
 	  <!-- SysAdmin / DBAnalystDev / NetEngineer -->
 
 	  <para>
               Network and systems, administration and support:
-	      
+
 	      Microsoft&reg; Windows XP / 7 / Server 2003, Exchange, Active
 	      Directory, Group Policy (GPO), Kaspersky Anti-Virus, Windows
 	      Software Update Services (WSUS),
               Debian / Ubuntu / Edubuntu, VMware vSphere Hypervisor, Oracle
-	      VirtualBox, 
+	      VirtualBox,
 	      snort, arpwatch, Cacti, ntop, Nagios,
               Squid, DansGuardian,
               Endian Firewall Community,
@@ -705,7 +850,7 @@ Assisted performance testing (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 	      
 	      Microsoft&reg; Access,
 	      Microsoft&reg; SQL Server, SQLite, PostgreSQL,
-	      Perl, AutoHotkey, bash.
+	      Perl, AutoHotkey, Bash.
 	    </para>
 	  
 	  <para>

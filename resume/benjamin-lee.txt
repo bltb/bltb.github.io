@@ -4,9 +4,9 @@ Benjamin Lee
     Melbourne
     Victoria
     Australia
-    
+
     mob:+61 4 16 BEN LEE (236 533)
-    
+
     <benjamin.lee@realthought.net>
 
   
@@ -20,11 +20,11 @@ The reward of a thing well done is to have done it. -- Emerson
 
 When it's dark enough you can see the stars. -- Ralph Waldo Emerson
 
-Version 0.0.34
+Version 0.0.35
 
-Generated 2019-06-26T22:00:53+10:00
+Generated 2020-08-12T09:15:44+10:00
 
-
+-------------------------------------------------------------------------------
 
 Objectives
 
@@ -36,7 +36,7 @@ integrity; to champion for the widespread adoption of open standards; to
 improve the efficiency and quality of both personal and team work practises;
 and to establish positive inter-personal relationships.
 
-
+-------------------------------------------------------------------------------
 
 Personal Ambitions
 
@@ -46,53 +46,53 @@ to be a fire fighter; to work for Medecins Sans Frontieres (MSF); and to live
 to see the Open Source software development paradigm deliver information
 freedom (and knowledge) to the world.
 
-
+-------------------------------------------------------------------------------
 
 Education
 
 Postgraduate
 
-   May-2009 to Jun-2009 - Participated in French (beginner intensive) course
+  * May-2009 to Jun-2009 - Participated in French (beginner intensive) course
     at the Alianza Colombo Francesa (Alliance Fran aise Colombie), Manizales,
     Colombia.
 
-   Sep-2007 to Dec-2007 - Participated in Spanish language and culture course
+  * Sep-2007 to Dec-2007 - Participated in Spanish language and culture course
     at the University of Salamanca,  vila Campus, Spain. Participado en el
     Curso de Espa ol (Lengua y Cultura) realizado en la Universidad de
     Salamanca, Campus de  vila, Espa a.
 
-
+-------------------------------------------------------------------------------
 
 Tertiary 1997 - 2000
 
-   May-2001 - Admitted to the Honours Degree of Bachelor of Computer Science,
+  * May-2001 - Admitted to the Honours Degree of Bachelor of Computer Science,
     Monash University, Clayton Campus, Melbourne, Australia.
 
-   2000 - Authored thesis on 'Fuzzy Logic -based load balancing of Internet
+  * 2000 - Authored thesis on 'Fuzzy Logic -based load balancing of Internet
     servers'.
 
-
+-------------------------------------------------------------------------------
 
 Secondary 1991 - 1996
 
-   Tertiary Entrance Rank Achieved (max. 99.95): 99.65.
+  * Tertiary Entrance Rank Achieved (max. 99.95): 99.65.
 
-
+-------------------------------------------------------------------------------
 
 Skills and Knowledge
 
 Languages
 
-   Native / C2: English
+  * Native / C2: English
 
-   Upper-intermediate / C1: Spanish / Espa ol
+  * Upper-intermediate / C1: Spanish / Espa ol
 
-   Beginner / A1-A2: Portuguese / Portugu s
+  * Beginner / A1-A2: Portuguese / Portugu s
 
-   Less than beginner / -A1: French / Fran ais, German / Deutsch, Swahili /
+  * Less than beginner / -A1: French / Fran ais, German / Deutsch, Swahili /
     Kiswahili, Auslan - Australian Sign Language
 
-
+-------------------------------------------------------------------------------
 
 Experience with
 
@@ -112,7 +112,7 @@ Operating Systems
 
 Languages
 
-    ANSI C, ANSI / ISO C++, Perl, Python, shell / bash, SQL, Ruby, Go, Java,
+    ANSI C, ANSI / ISO C++, Perl, Python, shell / Bash, SQL, Ruby, Go, Java,
     Groovy, HTML / SGML / XML / XSLT, JSON. YAML, WML, CSS, PHP, Tcl / Expect,
     R, Lisp, MIPS Assembly, Pascal / Delphi, PowerShell, Visual Basic,
     Javascript / ECMAScript, etc.
@@ -144,11 +144,46 @@ Computing Concepts
     and computer architecture, Ethernet, computer security, database
     management, queueing theory and more.
 
-
+-------------------------------------------------------------------------------
 
 Work History / Experience
 
-   Feb-2018 to current
+  * Jun-2019 to current
+
+    National Australia Bank 700 Bourke St. Melbourne VIC 3000 Australia
+
+    Senior Analyst (DevOps and Automation)
+
+    Technologies and tools Docker, Jenkins, Gradle, Groovy, Ansible, Python,
+    Java / Spring, Python, NodeJS / JavaScript, WebSphere Liberty Profile,
+    Apache Tomcat, NGINX / Kong, HAProxy, IBM WebSphere MQ, F5 BIG-IP,
+    Confluent Kafka, Solaris, Linux, AWS (IAM, ECS, RDS, EC2, CloudFormation,
+    DynamoDB), Gatling, Splunk, SonarQube, CheckMarx, Grafana, InfluxDB,
+    Splunk, AppDynamics, Atlassian Jira and Confluence. 
+
+     Supported multiple Agile Scrum teams by troubleshooting failures in CI/CD
+    build pipelines. Identified optimisations and improvement opportunites.
+    Assisted performance testing and analysis. 
+
+     Identified and fixed Java application performance issues (Spring Boot 2.x
+    TaskExecutor thread pool configuration and tuning, Spring Framework
+    MimeTypeUtils java.util.concurrent.locks defect). 
+
+    Reduced project delivery time and cost by avoiding unnecessary change and
+    "keeping it simple".
+
+    Led multiple, non-trivial, X.509 client authentication and web server
+    authentication certificate deployments (i.e. renewals) into live production
+    systems without service interruption or incident.
+
+     Tuned LDAP query to noticeably improve user log-in experience. Debugged
+    and fixed IAM policy issues involving various AWS services including KMS,
+    S3, VPC endpoints, EC2 Auto Scaling Groups. 
+
+     Developed, tested and reviewed application and infrastructure code.
+    Reviewed and assisted infrastructure and database design. 
+
+  * Feb-2018 to Jun-2019
 
     Deloitte 550 Bourke St. Melbourne VIC 3000 Australia
 
@@ -175,7 +210,25 @@ Work History / Experience
     Administered Splunk and tuned Splunk queries. Assisted performance testing
     (Microsoft Dynamics 365, Salesforce, TIBCO EMS).
 
-   May-2012 to Jan-2018
+  * Apr-2017 to Jan-2018
+
+    National Australia Bank 200 Victoria Pde. East Melbourne VIC 3002 Australia
+
+    Senior Consultant
+
+     Cloud (AWS) Infrastructure Developed, tested and supported infrastructure
+    (IAM, VPC, EC2, S3, Direct Connect, etc.) as code using Puppet, Packer,
+    Terraform, Python, etc.. 
+
+    Developed, tested and / or supported infrastructure services (VMware ESX,
+    Akamai, NGINX Plus, Squid, DNS / BIND).
+
+    Assisted with Pivotal Cloud Foundry proof of concept.
+
+    Automated "toil" work involving Jira, Confluence, email, Jenkins, etc.
+    using Selenium, Bash, Python, Ruby, etc.
+
+  * May-2012 to Apr-2017
 
     National Australia Bank 700 Bourke St. Melbourne VIC 3000 Australia
 
@@ -217,14 +270,14 @@ Work History / Experience
     Liberty Profile, WebSphere MQ, Business Process Manager, Tivoli Access
     Manager - WebSEAL, IBM System z mainframe (CPACF), Linux on z/VM.
 
-   Sep-2011 to Jan-2012
+  * Sep-2011 to Jan-2012
 
     The School of St Jude Moshono Campus PO Box 11875 Arusha Tanzania East
     Africa
 
     Systems Administrator / Database Analyst Developer / Network Engineer
 
-    Network and systems, administration and support: Microsoft Windows XP / 7
+    Network and systems, administration and support: Microsoft? Windows XP / 7
     / Server 2003, Exchange, Active Directory, Group Policy (GPO), Kaspersky
     Anti-Virus, Windows Software Update Services (WSUS), Debian / Ubuntu /
     Edubuntu, VMware vSphere Hypervisor, Oracle VirtualBox, snort, arpwatch,
@@ -238,18 +291,18 @@ Work History / Experience
     control. Mercurial / hg. Change / configuration management. Documentation
     and training.
 
-    Database analysis and development: Microsoft Access, Microsoft SQL
-    Server, SQLite, PostgreSQL, Perl, AutoHotkey, bash.
+    Database analysis and development: Microsoft? Access, Microsoft? SQL
+    Server, SQLite, PostgreSQL, Perl, AutoHotkey, Bash.
 
     Climb Mount Meru and Mount Kilimanjaro.
 
-   Nov-2010 to May-2011
+  * Nov-2010 to May-2011
 
     Australia Post 111 Bourke St. Melbourne VIC 3000 Australia
 
     Performance Test Analyst
 
-    BEA WebLogic / Oracle, Tomcat / Microsoft SQL Server, Win32 GUI "thick
+    BEA WebLogic / Oracle, Tomcat / Microsoft? SQL Server, Win32 GUI "thick
     client" (Visual Basic, ODBC) application performance testing. HP LoadRunner
     / QuickTest Professional (QTP) / Quality Center, Ruby, Selenium, Python,
     GNU win32 regex / pcre DLL, Perl, sed, cURL and other tools.
@@ -258,7 +311,7 @@ Work History / Experience
     Data migration: LoadRunner, Perl, sed, etc. VMware ESX performance
     monitoring. I/O benchmarking: Iozone.
 
-   Aug-2003 to Aug-2008
+  * Aug-2003 to Aug-2008
 
     PerformIQ Pty. Ltd. Level 6 170 Queen St. Melbourne VIC 3000 Australia
 
@@ -297,18 +350,18 @@ Work History / Experience
     PHP / SQL optimisation and performance analysis. Web-based financial
     reporting application.
 
-    Windows library (DLL) development. Python / C / C++.
+    Windows? library (DLL) development. Python / C / C++.
 
     CGI application development. Perl / DBI, PHP and Python.
 
-    Network and systems administration: Windows 2000 / XP / Server 2003,
+    Network and systems administration: Windows? 2000 / XP / Server 2003,
     Active Directory, FreeBSD, OpenBSD, Check Point FireWall-1 Next Generation
     (NG), Amanda, UW imapd, UW ipop3d, Squid, NFS / NIS, autofs, Samba, WINS,
     DHCP, rsync, CUPS, BIND (DNS), Net-SNMP, MRTG / RRDtool, Courier IMAPD /
     POP3D, Apache, Postfix, AMAViS, ClamAV, firewalls / VPN / IPsec - iptables,
     pf / pfctl - NAT / DNAT / SNAT, FreeS/WAN, OpenSWAN, Cisco IOS.
 
-   Freelance IT Counselling
+  * Freelance IT Counselling
 
     Web application development (Perl, CGI::Application).
 
@@ -320,7 +373,7 @@ Work History / Experience
 
     Systems administration (Cacti, ntop, snort, OSSIM).
 
-   Mar-2005 to Sep-2007
+  * Mar-2005 to Sep-2007
 
     Symstream Technology Group Ltd. Level 1 3 Chester St. Oakleigh VIC 3166 
     Australia
@@ -346,7 +399,7 @@ Work History / Experience
     Shorewall, named / bind, Courier IMAP, OpenLDAP, Postfix, Samba, VMware,
     vsftpd, and Cisco IOS.
 
-   Nov-2001 to Jul-2003
+  * Nov-2001 to Jul-2003
 
     Aspect Data Pty. Ltd. (formerly dotWAP Pty. Ltd.) Level 2 71-75 City Rd. 
     Southbank VIC 3006 Australia
@@ -410,7 +463,7 @@ Work History / Experience
     sanitizer, NAI VirusScan, firewalls - iptables, ipchains, pf / pfctl - NAT
     / DNAT / SNAT, a little password recovery on Windows NT / 2000, Cisco IOS).
 
-   1999 to 2002 (independent contracting)
+  * 1999 to 2002 (independent contracting)
 
     Various clients
 
