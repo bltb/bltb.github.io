@@ -20,9 +20,9 @@ The reward of a thing well done is to have done it. -- Emerson
 
 When it's dark enough you can see the stars. -- Ralph Waldo Emerson
 
-Version 0.0.35
+Version 0.0.36
 
-Generated 2020-08-12T09:15:44+10:00
+Generated 2021-08-03T19:43:17+10:00
 
 -------------------------------------------------------------------------------
 
@@ -148,7 +148,36 @@ Computing Concepts
 
 Work History / Experience
 
-  * Jun-2019 to current
+  * Oct-2020 to current
+
+    Latitude Financial Services 800 Collins St. Docklands VIC 3008 Australia
+
+    Senior Cloud Engineer - Site Reliability Engineer - Cloud (AWS)
+
+    Technologies and tools Docker, Buildkite, Datadog, Sumo Logic, PagerDuty,
+    Python, Go, GNU Make, Bash, Maven, NodeJS / JavaScript, Java / Spring,
+    Linux (Alpine), HAProxy, Kafka, Terraform, AWS (IAM, ECS, EC2, DynamoDB,
+    CloudFormation, Service Catalog, PrivateLink, Transit Gateway), Atlassian
+    Jira and Confluence.
+
+    Supported multiple teams by troubleshooting failures in CI/CD build
+    pipelines.
+
+    Identified optimisations and improvement opportunites in designs and
+    implementations (quality, security).
+
+    Debugged networking issues (packet duplication, Nagle, NAT).
+
+    Provided 24/7 on-call support.
+
+    Assisted AWS Transit Gateway implementation. Assisted migration from GitHub
+    Enterprise to GitHub Cloud.
+
+    Debugged and fixed IAM policy issues.
+
+    Developed, tested and reviewed infrastructure code.
+
+  * Jun-2019 to Oct-2020
 
     National Australia Bank 700 Bourke St. Melbourne VIC 3000 Australia
 

@@ -7,7 +7,7 @@
 <!ENTITY Travels SYSTEM "travels.txt">
 <!ENTITY section-interests SYSTEM "section-interests.sgml">
 <!ENTITY % draft "IGNORE">
-<!ENTITY Version "Version 0.0.35">
+<!ENTITY Version "Version 0.0.36">
 ]>
 
 <article id="index">
@@ -477,15 +477,94 @@ Infrastructure as Code,
     <title>Work History / Experience</title>
     
     <!--
-    is this *only* "work experience"?
-    maybe this is all just "experience"?
-    -->
-
+	is this *only* "work experience"?
+	maybe this is all just "experience"?
+      -->
+    
     <para>
-	<itemizedlist>
+      <itemizedlist>
+	
+	
+	
+	<listitem>
+	  <para>Oct-2020 to current
+            <address><personname><firstname>Latitude Financial Services</firstname></personname> <street>800 Collins St.</street> <city>Docklands</city> <state>VIC</state> <postcode>3008</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para> 
+	  
+	  <para><emphasis>Senior Cloud Engineer - Site Reliability Engineer - Cloud (AWS)</emphasis></para>
+	  
+	  <para>
+	    <emphasis>Technologies and tools</emphasis>
+            Docker,
+            Buildkite,
+	    Datadog,
+	    Sumo Logic,
+	    PagerDuty,
+	    
+	    Python,
+	    Go,
+	    GNU Make,
+	    Bash,
+	      
+	    Maven,
+	    NodeJS / JavaScript,
+	    Java / Spring,
+	    
+	    Linux (Alpine),
+
+	    HAProxy,
+	    Kafka,
+
+            Terraform,
+
+	    AWS (IAM, ECS, EC2, DynamoDB, CloudFormation,
+	    Service Catalog, PrivateLink, Transit Gateway),
+	    
+	    Atlassian Jira and Confluence.
+	    
+	  </para>
+	  
+	  <para>
+	    
+	    Supported multiple teams by
+	    troubleshooting failures in CI/CD build pipelines.
+	    
+	    </para>
+	  <para>
+          Identified optimisations and improvement opportunites
+          in designs and implementations
+          (quality, security).
+
+	    </para>
+	  <para>
+	    Debugged networking issues (packet duplication, Nagle, NAT).
+          
+	    </para>
+	  <para>
+          Provided 24/7 on-call support.
+	    
+	    </para>
+	  <para>
+	    Assisted AWS Transit Gateway implementation.
+	    
+	    Assisted migration from GitHub Enterprise to GitHub Cloud.
+	    
+	    </para>
+	  <para>
+	    Debugged and fixed IAM policy issues.
+	  </para>
+
+	  <para>
+		Developed, tested and reviewed
+		infrastructure
+		code.
+	  </para>
+	  
+	  
+	</listitem>
+
 
 	<listitem>
-	  <para>Jun-2019 to current
+	  <para>Jun-2019 to Oct-2020
 	    <address><personname><firstname>National Australia Bank</firstname></personname> <street>700 Bourke St.</street> <city>Melbourne</city> <state>VIC</state> <postcode>3000</postcode> <country><emphasis>Australia</emphasis></country><otheraddr></otheraddr></address></para>
 
 	  <para><emphasis>Senior Analyst (DevOps and Automation)</emphasis></para>
