@@ -5,12 +5,12 @@ pre {
 }
 
 body {
-	font-family: 'EB Garamond', arial, helvetica, geneva, san-serif;	font-size: 0.7pc;
+	font-family: 'EB Garamond', arial, helvetica, geneva, san-serif;	font-size: 1.25rem;
 	background-color: #ffffff;
 }
 
 p {
-	font-family: 'EB Garamond', arial, helvetica, geneva, san-serif;	font-size: 0.7pc; line-height: 120%;
+	font-family: 'EB Garamond', arial, helvetica, geneva, san-serif;	font-size: 1.25rem; line-height: 120%;
 }
 	
 h2 {
