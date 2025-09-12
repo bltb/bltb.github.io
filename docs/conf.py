@@ -13,6 +13,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.todo',
     'sphinx_rtd_theme',
+    'sphinxemoji.sphinxemoji',
 ]
 
 templates_path = ['_templates']
