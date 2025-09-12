@@ -8,23 +8,26 @@ author = 'Benjamin Lee'
 release = '0.1'
 
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinx.ext.todo',
-    'sphinx.ext.viewcode',
-    'sphinx_git',
-    'sphinx_rtd_theme',
-    'sphinxemoji.sphinxemoji',
+    "sphinx.ext.duration",
+    "sphinx.ext.doctest",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
 ]
 
-html_theme = 'sphinx_rtd_theme'
-
-html_context = {
-    "conf_py_path": "/docs/",
-    "display_github": True,
-    "github_repo": "bltb.github.io",
-    "github_user": "bltb",
-    "github_version": "master",
+intersphinx_mapping = {
+    "rtd": ("https://docs.readthedocs.io/en/stable/", None),
+    "python": ("https://docs.python.org/3/", None),
+    "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
+intersphinx_disabled_domains = ["std"]
 
-todo_include_todos = True
+templates_path = ["_templates"]
+
+epub_show_urls = "footnote"
+
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+
+html_theme = "sphinx_rtd_theme"
+
+html_static_path = ["_static"]
