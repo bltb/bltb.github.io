@@ -26,9 +26,10 @@ html_static_path = ['_static']
 todo_include_todos = True
 
 html_context = {
-    "display_github": True,
-    "github_user": "bltb",
-    "github_repo": "bltb.github.io",
-    "github_version": "master",
+    "commit": True,
     "conf_py_path": "/docs/",
+    "display_github": True,
+    "github_repo": "bltb.github.io",
+    "github_user": "bltb",
+    "github_version": "master",
 }
