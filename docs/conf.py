@@ -13,23 +13,9 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
     'sphinx_git',
-    'sphinx_rtd_theme',
     'sphinxemoji.sphinxemoji',
 ]
 
-templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
-html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+html_theme = 'default'
 
 todo_include_todos = True
-
-html_context = {
-    "commit": True,
-    "conf_py_path": "/docs/",
-    "display_github": True,
-    "github_repo": "bltb.github.io",
-    "github_user": "bltb",
-    "github_version": "master",
-}
