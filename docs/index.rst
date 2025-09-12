@@ -6,4 +6,6 @@ Performance Engineering and Reliability
 
 Urgh, unfortunately, no, the resources are not unlimited... it all still applies. :rofl:
 
-https://blog.google/inside-google/infrastructure/googles-data-centers-inside-look/
+The :computer:s are just hiding
+`elsewhere <https://blog.google/inside-google/infrastructure/googles-data-centers-inside-look//>`__
+.
