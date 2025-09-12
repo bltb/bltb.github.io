@@ -19,4 +19,12 @@ extensions = [
 
 html_theme = 'sphinx_rtd_theme'
 
+html_context = {
+    "conf_py_path": "/docs/",
+    "display_github": True,
+    "github_repo": "bltb.github.io",
+    "github_user": "bltb",
+    "github_version": "master",
+}
+
 todo_include_todos = True
