@@ -13,9 +13,10 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
     'sphinx_git',
+    'sphinx_rtd_theme',
     'sphinxemoji.sphinxemoji',
 ]
 
-html_theme = 'default'
+html_theme = 'sphinx_rtd_theme'
 
 todo_include_todos = True
