@@ -1,1 +1,1 @@
-canonical-sphinx
+canonical-sphinx[full]
