@@ -1,4 +1,1 @@
-sphinx-git
-sphinx-rtd-theme
-sphinxemoji
-urllib3
+canonical-sphinx

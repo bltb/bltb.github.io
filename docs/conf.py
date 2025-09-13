@@ -8,26 +8,9 @@ author = 'Benjamin Lee'
 release = '0.1'
 
 extensions = [
-    "sphinx.ext.duration",
-    "sphinx.ext.doctest",
-    "sphinx.ext.autodoc",
-    "sphinx.ext.autosummary",
+    "canonical_sphinx",
+    "sphinxcontrib.cairosvgconverter",
+    "sphinx_last_updated_by_git",
     "sphinx.ext.intersphinx",
-    "sphinxemoji.sphinxemoji",
+    "sphinx_sitemap",
 ]
-
-templates_path = ["_templates"]
-
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
-
-html_theme = "sphinx_rtd_theme"
-
-html_static_path = ["_static"]
-
-html_context = {
-    "conf_py_path": "/docs/",
-    "display_github": True,
-    "github_repo": "bltb.github.io",
-    "github_user": "bltb",
-    "github_version": "master",
-}
