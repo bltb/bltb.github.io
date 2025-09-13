@@ -9,7 +9,6 @@ release = '0.1'
 
 extensions = [
     "canonical_sphinx",
-    "sphinxcontrib.cairosvgconverter",
     "sphinx_last_updated_by_git",
     "sphinx.ext.intersphinx",
     "sphinx_sitemap",
