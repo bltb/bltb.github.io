@@ -15,4 +15,10 @@ extensions = [
     'sphinxcontrib.mermaid',
 ]
 
+html_context = {
+    "github_url": "https://github.com/bltb/bltb.github.io",
+    "github_version": "master",
+    "github_folder": "/docs/",
+}
+
 disable_feedback_button = True
