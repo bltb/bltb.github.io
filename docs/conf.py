@@ -14,3 +14,5 @@ extensions = [
     "sphinx_sitemap",
     'sphinxcontrib.mermaid',
 ]
+
+disable_feedback_button = True
